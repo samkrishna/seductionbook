@@ -5,7 +5,7 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>land-vs-people</title>
-    <dateCreated>Fri, 24 Nov 2023 16:30:31 GMT</dateCreated>
+    <dateCreated>Fri, 24 Nov 2023 16:38:08 GMT</dateCreated>
     <expansionState>1,8,10,11,14,18,19,23,24,26,28,35,38,40,55,62</expansionState>
     <vertScrollState>72</vertScrollState>
     <windowTop>890</windowTop>
@@ -110,7 +110,8 @@
       <outline text="16. Instead of one NATIONAL campaign, a candidate has to run 50+ campaigns"/>
       <outline text="17. The EC is designed to suppress overall voter participation"/>
       <outline text="18. It directly reflects the Founders’ contempt for democracy"/>
-      <outline text="19. No other democracy has ever copied it (which should tell you all you need to know about its quality as a small-d democratic mechanism)"/>
+      <outline text="19. Because of how it works in practice, it winds up pitting different regions and different states of the country against each other"/>
+      <outline text="20. No other democracy has ever copied it (which should tell you all you need to know about its quality as a small-d democratic mechanism)"/>
     </outline>
   </body>
 </opml>
