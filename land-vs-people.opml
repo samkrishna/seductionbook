@@ -5,9 +5,9 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>land-vs-people</title>
-    <dateCreated>Fri, 24 Nov 2023 16:38:08 GMT</dateCreated>
-    <expansionState>1,8,10,11,14,18,19,23,24,26,28,35,38,40,55,62</expansionState>
-    <vertScrollState>72</vertScrollState>
+    <dateCreated>Sun, 26 Nov 2023 15:23:50 GMT</dateCreated>
+    <expansionState>1,8,11,14,19,24,26,28,35,39,41,84,86,100</expansionState>
+    <vertScrollState>95</vertScrollState>
     <windowTop>890</windowTop>
     <windowLeft>1116</windowLeft>
     <windowRight>2076</windowRight>
@@ -24,7 +24,7 @@
       <outline text="Supermajority amendment thresholds"/>
     </outline>
     <outline text="Ultimately, we are an oligarchy pretending to be a democracy">
-      <outline text="Judges are negatively incentivized to give in to popular sentiment. It’s a real career risk for them to make judgments that are “popularly right” but go against the law (which is often popularly wrong on the big issues of the day)"/>
+      <outline text="Judges are negatively incentivized to go against popular sentiment. It’s a real career risk for them to make judgments that are “popularly right” but go against the rule of law (which is often “wrong” or behind popular sentiment on the big issues of the day)"/>
     </outline>
     <outline text="The Supermajority amendment threshold prevents real systemic change">
       <outline text="Sure, you can pass a new law, but so what?">
