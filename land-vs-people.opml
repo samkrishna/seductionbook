@@ -5,9 +5,9 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>land-vs-people</title>
-    <dateCreated>Mon, 27 Nov 2023 14:24:47 GMT</dateCreated>
-    <expansionState>11,12,14,19,22,27,32,34,36,43,50,95,109,119</expansionState>
-    <vertScrollState>93</vertScrollState>
+    <dateCreated>Tue, 12 Dec 2023 12:10:40 GMT</dateCreated>
+    <expansionState>1,11,12,13,15,19,22,26,29,34,38,39,41,43,50,55,57,73,101,103,110,118,128</expansionState>
+    <vertScrollState>11</vertScrollState>
     <windowTop>-960</windowTop>
     <windowLeft>36</windowLeft>
     <windowRight>996</windowRight>
@@ -17,9 +17,9 @@
     <outline text="Title: Land is greater than people (but not really)"/>
     <outline text="The Framers’ Presuppositional Flaw:">
       <outline text="They were adamant about avoiding and preventing corruption in the Constitution"/>
-      <outline text="Yet they baked in a series of interlocking structures that guaranteed that White Male Oligarchs would have power forever regardless of how much the country changed"/>
+      <outline text="Yet they designed a series of interlocking structures that guaranteed that White Male Oligarchs would have political, economic, and narrative power forever"/>
     </outline>
-    <outline text="There are six corruptions in the document">
+    <outline text="There are six corruptions in the document (with a Bonus)">
       <outline text="The United States Senate"/>
       <outline text="Electoral College"/>
       <outline text="Legislative Redistricting"/>
