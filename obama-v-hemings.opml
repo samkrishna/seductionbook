@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><!-- <editor>
+      <sidebar width="215"/>
+      <column name="text" width="939"/>
+    </editor> -->
+    <title>obama-v-hemings</title>
+    <dateCreated>Tue, 12 Dec 2023 17:34:53 GMT</dateCreated>
+    <expansionState>0,1,5,8,12,16</expansionState>
+    <vertScrollState>9</vertScrollState>
+    <windowTop>-960</windowTop>
+    <windowLeft>37</windowLeft>
+    <windowRight>997</windowRight>
+    <windowBottom>0</windowBottom>
+  </head>
+  <body>
+    <outline text="Title: Michelle Obama v. Sally Hemings">
+      <outline text="Background: Martha Wayles Skelton: TJ’s first wife">
+        <outline text="Life Dates: 1748-10-30 to 1782-09-06"/>
+        <outline text="Mother: Martha Eppes Wayles"/>
+        <outline text="Father: John Wayles: 1715-01-31 to 1773-05-28"/>
+      </outline>
+      <outline text="Martha Wayles was previously married to Bathurst Skelton in 1768 and widowed by him in 1768">
+        <outline text="Bathurst Skelton: 1744-1768"/>
+      </outline>
+    </outline>
+    <outline text="TJ got all his initial money and a new batch of slaves through marriage dowry to Martha Wayles"/>
+    <outline text="TJ *INHERITED* all of his money and property initially (He was NO WAY IN HELL a self-made man)" _note="https://www.statista.com/statistics/1121963/slaves-owned-by-us-presidents/">
+      <outline text="First batch of property happened at 14 when he inherited 5,000 acres, 52 slaves, livestock and his father’s library"/>
+      <outline text="Second batch was when John Wayles died, got another 135 slaves"/>
+      <outline text="The remainder of 413-ish was through slave reproduction of their children"/>
+    </outline>
+    <outline text="Wife #2: Sally Hemings as common-law child bride to TJ">
+      <outline text="Birth Date: 1773-ish to 1835"/>
+      <outline text="Mother: Betty Hemings"/>
+      <outline text="Father: John Wayles"/>
+    </outline>
+    <outline text="The Married Mistress: Maria Luisa Caterina Cecilia Cosway">
+      <outline text="Birthdate: 1760-06-11 to 1838-01-05"/>
+      <outline text="Husband to John Cosway, 20 years senior and noted philanderer"/>
+      <outline text="Had a recognition for narcissists: Commissioned the first English painting of Napoleon, who eventually sold the Louisiana Purchase to Jefferson after losing Haiti"/>
+    </outline>
+  </body>
+</opml>
