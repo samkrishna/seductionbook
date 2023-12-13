@@ -5,9 +5,9 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>obama-v-hemings</title>
-    <dateCreated>Tue, 12 Dec 2023 17:34:53 GMT</dateCreated>
-    <expansionState>0,1,5,8,12,16</expansionState>
-    <vertScrollState>9</vertScrollState>
+    <dateCreated>Wed, 13 Dec 2023 09:57:31 GMT</dateCreated>
+    <expansionState>0,1,5,8,12,17,18,24</expansionState>
+    <vertScrollState>14</vertScrollState>
     <windowTop>-960</windowTop>
     <windowLeft>37</windowLeft>
     <windowRight>997</windowRight>
@@ -36,6 +36,9 @@
       <outline text="Father: John Wayles"/>
     </outline>
     <outline text="The Married Mistress: Maria Luisa Caterina Cecilia Cosway">
+      <outline text="Italian woman">
+        <outline text="She was a painter, musician, composer, and educator (perfect for Taylor Swift)"/>
+      </outline>
       <outline text="Birthdate: 1760-06-11 to 1838-01-05"/>
       <outline text="Husband to John Cosway, 20 years senior and noted philanderer"/>
       <outline text="Had a recognition for narcissists: Commissioned the first English painting of Napoleon, who eventually sold the Louisiana Purchase to Jefferson after losing Haiti"/>
