@@ -5,13 +5,13 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>land-vs-people</title>
-    <dateCreated>Tue, 12 Dec 2023 12:10:40 GMT</dateCreated>
-    <expansionState>1,11,12,13,15,19,22,26,29,34,38,39,41,43,50,55,57,73,101,103,110,118,128</expansionState>
-    <vertScrollState>11</vertScrollState>
-    <windowTop>-960</windowTop>
-    <windowLeft>36</windowLeft>
-    <windowRight>996</windowRight>
-    <windowBottom>0</windowBottom>
+    <dateCreated>Mon, 11 Mar 2024 15:43:44 GMT</dateCreated>
+    <expansionState>1,4,12,13,14,16,20,23,27,30,35,40,42,44,51,58,104,111,119,129</expansionState>
+    <vertScrollState>7</vertScrollState>
+    <windowTop>108</windowTop>
+    <windowLeft>4</windowLeft>
+    <windowRight>964</windowRight>
+    <windowBottom>1068</windowBottom>
   </head>
   <body>
     <outline text="Title: Land is greater than people (but not really)"/>
@@ -22,10 +22,11 @@
     <outline text="There are six corruptions in the document (with a Bonus)">
       <outline text="The United States Senate"/>
       <outline text="Electoral College"/>
-      <outline text="Legislative Redistricting"/>
+      <outline text="Legislative Apportionment of its own districts and Election Regulation"/>
       <outline text="Lifetime appointment of Federal Judges"/>
       <outline text="Fungible Personhood"/>
       <outline text="Supermajority amendment thresholds"/>
+      <outline text="BONUS: No term limits for office holders"/>
     </outline>
     <outline text="Ultimately, we are an oligarchy pretending to be a democracy">
       <outline text="Judges are negatively incentivized to go against oligarchic sentiment. ">
@@ -35,7 +36,7 @@
       </outline>
       <outline text="We have regulatory capture independent of who wins the Executive Branch">
         <outline text="Yes, some Presidents and some parties are worse than others"/>
-        <outline text="We have one political party dedicated to regulatory capture"/>
+        <outline text="We have one political party explicitly dedicated to regulatory capture"/>
       </outline>
       <outline text="Labeling everything as “Communism” or “Socialism” is how the Oligarchs keep everyone confused and divided, with a huge assist from the Fourth Estate"/>
       <outline text="Preponderance of Status Quo">
@@ -49,12 +50,12 @@
     </outline>
     <outline text="The Supermajority amendment threshold prevents real systemic change">
       <outline text="Sure, you can pass a new law, but so what?">
-        <outline text="The judge will be inclined to strike down the law as unconstitutional because it challenges the rule of the oligarchy"/>
         <outline text="It will get challenged"/>
+        <outline text="The judge will be inclined to strike down the law as unconstitutional because it challenges the rule of the oligarchy"/>
       </outline>
       <outline text="The oligarchs intended the threshold to provide for “societal stability” (it’s a lie):">
-        <outline text="If only state legislatures can vote on ratification, and the state legislatures are hopelessly corrupt because of gerrymandering, then what can actually change?"/>
         <outline text="The stability was for THEM to prevent US from exercising our will and agency to fix things at THEIR expense"/>
+        <outline text="If only state legislatures can vote on ratification, and the state legislatures are hopelessly corrupt because of gerrymandering, then what can actually change?"/>
       </outline>
       <outline text="The limbo status of the technically ratified-but-not-accepted Equal Rights Amendment should tell you everything you need to know about the impossibility of fixing the Constitution"/>
     </outline>
