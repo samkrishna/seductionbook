@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><!-- <editor>
+      <sidebar width="215"/>
+      <column name="text" width="939"/>
+    </editor> -->
+    <title>Essays</title>
+    <dateCreated>Mon, 11 Mar 2024 15:42:57 GMT</dateCreated>
+    <expansionState>9</expansionState>
+    <vertScrollState>0</vertScrollState>
+    <windowTop>204</windowTop>
+    <windowLeft>1117</windowLeft>
+    <windowRight>2077</windowRight>
+    <windowBottom>1164</windowBottom>
+  </head>
+  <body>
+    <outline text="Star Trek v. America (check)"/>
+    <outline text="Summa Theologica (check)"/>
+    <outline text="Arrogance (check)"/>
+    <outline text="Narrative Warfare (check)"/>
+    <outline text="Follow the Money (check)">
+      <outline text="The only lasting way history makes sense"/>
+      <outline text="Political Power follows Economic Power"/>
+      <outline text="Structures for political power follow its needs to maintain power"/>
+    </outline>
+    <outline text="Sally Hemings v. Michelle Obama (check)"/>
+    <outline text="Mediocracy (check)">
+      <outline text="Needs White Male-as-entitled-victim speech (beginnings)"/>
+    </outline>
+    <outline text="Land is greater than People (check)"/>
+    <outline text="Summer is Coming"/>
+  </body>
+</opml>
