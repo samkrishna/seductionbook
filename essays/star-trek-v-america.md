@@ -46,9 +46,36 @@ Jefferson had a pretty strong conflict-of-interest about all this. Because he ha
 Fortunately for both men, the solution to reconcile these wildly different views was to implicitly re-classify EVERYONE who wasn't in Constitution Hall in Philadelphia in the Summer of 1787 as "pets". Think about it:
 
 - In divorce, parents STILL fight over "who has custody" over the child (implicitly in that is the question of "is the child property?")
-- Once a woman marries a man, all of her property and agency are re-assigned to the man
+- Once a woman marries a man, all of her property and agency are re-assigned to her husband
 - This also applied to slaves, laborers, Native American "savages", etc.
 
-So yeah, once Hamilton, Jefferson and others were resolved to classify everyone who WAS NOT in the room as "pets", "We the People" really ONLY meant those oligarchs and their buddies were what the Constitution applied to in terms of enumerating "negative rights" to (meaning the government COULD NOT restrict you from something, but it also could not guarantee anything to be provided for, either). Which is quite convenient for the oligarch who already has everything he needs. It also conveniently prevents we pets from asking for things because WE DON'T MATTER in the political calculus. AND as a bonus: if we think we matter, when we actually don't, that's OUR delusion and problem, not the oligarchs.
+So yeah, once Hamilton, Jefferson, Madison and others were resolved to classify everyone who WAS NOT in the room as "pets", "We the People" really ONLY meant those oligarchs and their buddies were what the Constitution applied to in terms of enumerating "negative rights" to (meaning the government COULD NOT restrict you from something, but it also could not guarantee anything to be provided for). Which is quite convenient for the oligarch who already has everything he needs. It also conveniently prevents we pets from asking for things because WE DON'T MATTER in the political calculus. AND as a bonus: if we think we matter, when we actually don't, that's OUR delusion and problem, not the oligarchs.
 
-Yes, there really are TWO Americas: one for the rich white male and one for the pets like us.
+So it's **EASY** to make up that there are TWO AMERICAS: one for the rich white male that should have power forever and one for the rest of us pets. However, that's just not true. It's ONE house, with rules and assumptions for the owners (the oligarchs) and rules for the pets (the non-oligarchs). And just to be clear: an American oligarch is someone who is a white male who has a net worth of $100M or higher.
+
+I have no doubt this division can feel ARBITRARY to the reader, and that's the point. It IS arbitrary, based on the assumptions of 1787 and WHO the Framers said ACTUALLY mattered. Again, read the James Madison quote at the beginning of this essay. There's a LOT MORE to this which will be covered in other essays, but in essence, what the oligarchs were trying to do was create a set of operational and narrative constructs to shut down any challenge to their power then, now, or in the future. They REALLY thought (and James Madison basically said so) that they should have power and property FOREVER and the government's first job is to guarantee the stability of that economic and political power, no matter how much the country changes.
+
+To the oligarchs, the ideas that are expressed and encapsulated in the Star Trek multiverse would be crazy-making and anathema because it would FORCE THEM to have to compete for political and sexual power, as well as be challenged by the idea that economic power games like capitalism were more ethereal. Let's go through the list of ideas expressed in Star Trek that would make a dude like James Madison crazy:
+
+- Presuppositional commitment to pure empiricism
+
+The idea that you'd have to actually measure and collect the data from a  phenomena, and THEN have a commitment to that data taking the scientist where it goes, rather than something that is automatically predisposed to supporting rich white dudes acquiring even more money would be clinically insane to the dudes of 1787.
+
+- The JJR view of Human Nature being basically good
+
+Humans would be operating as adults and practicing decent emotional self-regulation. They wouldn't play the victim and they'd also take responsibility when things weren't working. They'd also actively resist allowing their system of governance (the Federation, Starfleet, and various member planets) to enshittify themselves.
+
+What's the fun in that for the rich white dudes? I mean, if they can't exploit prey on someone else's psychological or systemic weaknesses, what is the actual point of its existence?
+
+- Adult men and women are automatically given equality, both narratively and societally
+
+Setting aside all the controversy around gender roles and their pronouns, the typical man and woman in the Federation starts off automatically equal independent of their "status", because status (beyond Starfleet ranks) doesn't really exist. Men and women and non-binaries are basically equal, and can initiate and engage in mating rituals with reputational, familial, or economic consequences beyond whether or not they break their specific relationship contracts with their partners. Also, women get to keep their property before and after a relationship as opposed to having it automatically assigned to their spouse and losing it in the wake of a breakup or a divorce.
+
+The Framers would be HORRIFIED at this idea. After all, if they couldn't force sex on anyone they wanted to have sex with, how would they EVER get laid? Also, being the beneficiaries of "marital property rights" is probably the fastest way for them to actually succeed: just marry a rich widow and watch all of her inheritance transfer to you (this is something that happened to George Washington and Thomas Jefferson).
+
+Never mind the fact that if women could actually challenge men politically and economically, than a lot of the economically soft rich white dudes (Madison, Jefferson, and Washington) might never have ascended at all. That thought HORRIFIED our blessed Framers: the idea that women MIGHT actually have good ideas worthy of being listened to? That's insane. That's like saying my Golden Retriever should be listened to for governance of the household, as opposed to only producing puppies and being available for Jefferson and Madison to fuck and breed whenever they wanted to.
+
+SPECIAL NOTE: At this point, you should be thinking something like "wow, that implication of bestiality is gross man" and you'd be spot-on. But since non-rich white dudes were considered pets, whenever a rich white dude has sex with a pet, that's BESTIALITY. A weird form, to be sure, but stil a form.
+
+SECOND SPECIAL NOTE: Unless you're a rich white dude, the government still classifies you as a pet.
+
