@@ -57,6 +57,8 @@ So it's **EASY** to make up that there are TWO AMERICAS: one for the rich white 
 
 I have no doubt this division can feel ARBITRARY to the reader, and that's the point. It IS arbitrary, based on the assumptions of 1787 and WHO the Framers said ACTUALLY mattered. Again, read the James Madison quote at the beginning of this essay. There's a LOT MORE to this which will be covered in other essays, but in essence, what the oligarchs were trying to do was create a set of operational and narrative constructs to shut down any challenge to their power then, now, or in the future. They REALLY thought (and James Madison basically said so) that they should have power and property FOREVER and the government's first job is to guarantee the stability of that economic and political power, no matter how much the country changes.
 
+This founding presupposition creates the legal, social, structural and narrative frameworks for [Caste](https://www.amazon.com/dp/0593230272), racism, misogyny, gender inequities (economic, social, and political), able-ism, neurodivergent and mental health stigmas, and other kinds of socioeconomic forms of discrimination that stitch our society together with some very ugly seams.
+
 ## Star Trek, from the Future of 1787
 
 To the oligarchs, the ideas that are expressed and encapsulated in the Star Trek multiverse would be crazy-making and anathema because it would FORCE THEM to have to compete for political and sexual power, as well as be challenged by the idea that economic power games like capitalism were more ethereal. Let's go through the list of ideas expressed in Star Trek that would make a dude like James Madison crazy:
