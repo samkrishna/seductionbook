@@ -5,13 +5,13 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>obama-v-hemings</title>
-    <dateCreated>Wed, 13 Dec 2023 09:57:31 GMT</dateCreated>
-    <expansionState>0,1,5,8,12,17,18,24</expansionState>
-    <vertScrollState>14</vertScrollState>
-    <windowTop>-960</windowTop>
-    <windowLeft>37</windowLeft>
-    <windowRight>997</windowRight>
-    <windowBottom>0</windowBottom>
+    <dateCreated>Mon, 11 Mar 2024 15:44:26 GMT</dateCreated>
+    <expansionState>0,1,5,8,12,17,18,24,27,29,32,35</expansionState>
+    <vertScrollState>30</vertScrollState>
+    <windowTop>148</windowTop>
+    <windowLeft>0</windowLeft>
+    <windowRight>960</windowRight>
+    <windowBottom>1108</windowBottom>
   </head>
   <body>
     <outline text="Title: Michelle Obama v. Sally Hemings">
@@ -31,7 +31,7 @@
       <outline text="The remainder of 413-ish was through slave reproduction of their children"/>
     </outline>
     <outline text="Wife #2: Sally Hemings as common-law child bride to TJ">
-      <outline text="Birth Date: 1773-ish to 1835"/>
+      <outline text="Major Dates: 1773-ish to 1835"/>
       <outline text="Mother: Betty Hemings"/>
       <outline text="Father: John Wayles"/>
       <outline text="TJ married into *both* families: John’s legitimate and shadow families" _note="https://en.wikipedia.org/wiki/Shadow_family"/>
@@ -43,13 +43,25 @@
       <outline text="Birthdate: 1760-06-11 to 1838-01-05"/>
       <outline text="Husband to John Cosway, 20 years senior and noted philanderer"/>
       <outline text="Had a recognition for narcissists: Commissioned the first English painting of Napoleon, who eventually sold the Louisiana Territory to Jefferson as the Louisiana Purchase after losing Haiti"/>
-      <outline text="She kept a correspondence going with Jefferson "/>
+      <outline text="She kept a correspondence going with Jefferson after his term until she died"/>
     </outline>
     <outline text="Based on modern conventions, TJ had a common law marriage to Sally and he followed in John Wayles’ footsteps">
       <outline text="He had a legitimate family with Martha Wayles and 6 children"/>
       <outline text="He had a shadow family with Sally Hemings and 6 children"/>
     </outline>
-    <outline text="Martha Jefferson is uncritically named as a FLOTUS even though she’d been dead for almost 20 years by the time TJ was inaugurated"/>
-    <outline text="Sally was ACTUALLY the first African-American FLOTUS, not Michelle Obama. She just didn’t have the legitimacy that Michelle had"/>
+    <outline text="Martha Jefferson is uncritically named as a FLOTUS even though she’d been dead for almost 20 years by the time TJ was inaugurated">
+      <outline text="The official White House position is that it would rather have a zombie reputation as First Lady then an living enslaved Black Woman" _note="https://www.whitehouse.gov/about-the-white-house/first-families/martha-wayles-skelton-jefferson/"/>
+    </outline>
+    <outline text="Sally was ACTUALLY the first African-American FLOTUS, not Michelle Obama. She just didn’t have the legitimacy that Michelle had">
+      <outline text="It *LOOKS* like that Sallie lived in Monticello during Jefferson’s terms of office. TJ would stay at Monticello for MONTHS at a time, so it wasn’t as if he didn’t have ready access to her"/>
+    </outline>
+    <outline text="TJ and Washington were both terrible with money and both had EXTRAVAGANT lifestyles and yet were not that good at income generation or investments or money management"/>
+    <outline text="So it looks like the core idea is that there is a love triangle (or love square):">
+      <outline text="Martha Wayles Skelton Jefferson got officially named as FLOTUS (even though she’s dead) — which shows you just how much the Founders lived in the Past"/>
+      <outline text="Sally Hemings gave TJ sex and a shadow family (overall, he sired at least 12 children: 6 with Martha and 6 with Sally)"/>
+      <outline text="Maria Cosway gave him “rebound love” that then morphed into something deeper that (fictionally) eventually gave him his presidential legacy">
+        <outline text="In the musical, she’s the one who will suggest to Napoleon to sell the Louisiana Territory to TJ"/>
+      </outline>
+    </outline>
   </body>
 </opml>
