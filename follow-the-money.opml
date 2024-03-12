@@ -5,13 +5,13 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>follow-the-money</title>
-    <dateCreated>Tue, 12 Dec 2023 12:16:49 GMT</dateCreated>
-    <expansionState>2,6,11,12,19,25,34,38,45,48,51</expansionState>
-    <vertScrollState>0</vertScrollState>
-    <windowTop>-960</windowTop>
-    <windowLeft>37</windowLeft>
-    <windowRight>997</windowRight>
-    <windowBottom>0</windowBottom>
+    <dateCreated>Tue, 12 Mar 2024 01:44:00 GMT</dateCreated>
+    <expansionState>2,6,11,12,19,25,35,38,39,46,50,54</expansionState>
+    <vertScrollState>37</vertScrollState>
+    <windowTop>52</windowTop>
+    <windowLeft>1117</windowLeft>
+    <windowRight>2077</windowRight>
+    <windowBottom>1012</windowBottom>
   </head>
   <body>
     <outline text="Title: Follow the Money"/>
@@ -46,6 +46,7 @@
           <outline text="They couldn’t afford to fight LITERALLY because Colonial currency was NO GOOD"/>
           <outline text="The vast majority (if not all) of the colonists, whether rebels, rebel sympathizers, neutrals, or British sympathizers were financially betting on the British winning this conflict simply from the fact that they were using the British pound as the currency"/>
           <outline text="The oligarchs couldn’t actually afford to pay for the rebellion they instigated"/>
+          <outline text="This was what sourced the eventual controversy around the National Debt because the Continental Congress issued IOUs (essentially, war bonds) to be redeemed by soldiers on the other side of winning the revolution"/>
         </outline>
         <outline text="Some years, the Continental army soldiers only got paid ONCE"/>
         <outline text="And they were facing off against the world’s most powerful imperial military"/>
@@ -71,14 +72,18 @@
         <outline text="Corollary: The perception may be as solid as a sand castle and far more brittle."/>
       </outline>
       <outline text="Axiom 8: Political power always follows economic power"/>
+      <outline text="Axiom 9: Absent conscious work, power structures will always be constructed to maintain the political and economic power of the status quo"/>
     </outline>
     <outline text="The (literal) value of history">
-      <outline text="History is basically the transfer of economic and political power on a large scale"/>
+      <outline text="History is basically the transfer or maintenance of economic and political power on a large scale"/>
       <outline text="Any historical narrative that doesn’t attempt to outline a “follow the money” narrative is mostly worthless or at best less-than-rigorous"/>
+      <outline text="It can occur as magical cause-free effects"/>
     </outline>
     <outline text="If you can’t master the rules, you can’t break or change the rules">
       <outline text="If your history is hagiographic in nature towards its actors, consider you’re not very good at your job"/>
       <outline text="If your history or biography is hagiographic in nature, and you win awards for your work product, consider that both YOU and the PRIZE COMMITTEE are committed to the status quo"/>
+      <outline text="Most histories and historians are participation trophy winners"/>
+      <outline text="Read “Time’s Monster” for a take on how historians collaborated with the British Empire to keep soul-washing its imperial ambitions"/>
     </outline>
   </body>
 </opml>
