@@ -1,5 +1,7 @@
 # Star Trek v. America
 
+## Introduction
+
 In MANY, MANY WAYS, the next quote is a roadmap for EXACTLY WHY we will NEVER have anything like the future that is shown and promised in every iteration of Star Trek:
 
 “The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests. *The protection of these faculties is the first object of government.* From the protection of different and unequal faculties of acquiring property, the possession of different degrees and kinds of property immediately results; and from the influence of these on the sentiments and views of the respective proprietors, ensues a division of the society into different interests and parties... the most common and durable source of factions has been the various and unequal distribution of property. Those who hold and those who are without property have ever formed distinct interests in society. Those who are creditors, and those who are debtors, fall under a like discrimination. A landed interest, a manufacturing interest, a mercantile interest, a moneyed interest, with many lesser interests, grow up of necessity in civilized nations, and divide them into different classes, actuated by different sentiments and views. The regulation of these various and interfering interests forms the principal task of modern legislation, and involves the spirit of party and faction in the necessary and ordinary operation of government."
@@ -35,7 +37,7 @@ Nope. They were iterators not that different from me and you who AT BEST could o
 
 This is where the rivalry between Alexander Hamilton and Thomas Jefferson comes in.
 
-# Structural View of Human Nature
+## Structural View of Human Nature
 
 Hamilton was a big fan of Thomas Hobbes, a (English?) philosopher who believed that the inherent nature of mankind was "nasty, brutish and short". Hobbes grew up in a Christian society and this worldview was constructed likely through some kind of Calvinist doctrine of the "Total Depravity of Man". This presupposed that because of the Fall of Man from Genesis 2 of the Bible has EVERYONE be born in sin and therefore corrupt, mankind was therefore utterly corrupted and needed strong, authoritarian controls in order to not fuck up things too badly. Also, as a bonus, this view of human nature worked REALLY WELL as a governing philosophy for colonialism as well, because white Christian men are going in to foreign lands to bring savages to heel and bring Jesus to them.
 
@@ -54,6 +56,8 @@ So yeah, once Hamilton, Jefferson, Madison and others were resolved to classify 
 So it's **EASY** to make up that there are TWO AMERICAS: one for the rich white male that should have power forever and one for the rest of us pets. However, that's just not true. It's ONE house, with rules and assumptions for the owners (the oligarchs) and rules for the pets (the non-oligarchs). And just to be clear: an American oligarch is someone who is a white male who has a net worth of $100M or higher.
 
 I have no doubt this division can feel ARBITRARY to the reader, and that's the point. It IS arbitrary, based on the assumptions of 1787 and WHO the Framers said ACTUALLY mattered. Again, read the James Madison quote at the beginning of this essay. There's a LOT MORE to this which will be covered in other essays, but in essence, what the oligarchs were trying to do was create a set of operational and narrative constructs to shut down any challenge to their power then, now, or in the future. They REALLY thought (and James Madison basically said so) that they should have power and property FOREVER and the government's first job is to guarantee the stability of that economic and political power, no matter how much the country changes.
+
+## Star Trek, from the Future of 1787
 
 To the oligarchs, the ideas that are expressed and encapsulated in the Star Trek multiverse would be crazy-making and anathema because it would FORCE THEM to have to compete for political and sexual power, as well as be challenged by the idea that economic power games like capitalism were more ethereal. Let's go through the list of ideas expressed in Star Trek that would make a dude like James Madison crazy:
 
