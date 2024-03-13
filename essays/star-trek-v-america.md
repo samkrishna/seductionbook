@@ -117,7 +117,16 @@ I mention all this because different Star Trek shows explore different sides of 
 
 So what is the fictional "Prime Directive"? It's the shorthand name for Starfleet Command's General Order 1, which reads as follows: "No starship may interfere with the normal development of any alien life or society." It's conceptual roots are based in an anti-colonialist attitude towards colonialism, which has formed and still governs quite a bit of Western Civilization.
 
-Just to explicate something from the previous section:
+Just to explicate something that's implied from the previous section:
 
-According to OUR Constitution, Gene Roddenberry, in case it's not clear, was a favored Pet (being a White Male). Because he wasn't oligarch rich, he couldn't influence the American government directly. So he came up with Star Trek. And Lucille Ball, another Pet, greenlit him.
+According to OUR Constitution, Gene Roddenberry, in case it's not clear, was a favored Pet (being a White Male). Because he wasn't oligarch rich, he couldn't influence the American government directly. So he came up with Star Trek. And Lucille Ball, another, richer Pet, greenlit him.
 
+## Other attributes of the Star Trek multiverse
+
+- Infinite Diversity in Infinite Combinations
+
+While "credited" to the Vulcan culture (think Mr. Spock), it's the core philosophy of Star Trek and its creator, Gene Roddenberry. Paraphrasing Kagi's AI, [IDIC] reflects the Vulcan belief that truth, beauty and logic (the Vulcan form for "goodness") emerge from the infinite diversity across the universe and how those differences combine.
+
+SPECIAL NOTE ABOUT HATERS: There's a right-wing fallacy that shows up from time to time in Star Trek-based arguments about how right-wing hate (casteism, racism, misogyny, etc) should be accepted with every other viewpoint in an IDIC-driven universe. Nope That's not how it works. To briefly invoke Karl Popper, a tolerant society (a la IDIC) must be intolerant of intolerance otherwise intolerance will spread and destroy the open and tolerant society. This is known as "the paradox of tolerance".
+
+- Post-capitalism economy
