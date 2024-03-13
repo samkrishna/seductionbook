@@ -130,3 +130,43 @@ While "credited" to the Vulcan culture (think Mr. Spock), it's the core philosop
 SPECIAL NOTE ABOUT HATERS: There's a right-wing fallacy that shows up from time to time in Star Trek-based arguments about how right-wing hate (casteism, racism, misogyny, etc) should be accepted with every other viewpoint in an IDIC-driven universe. Nope That's not how it works. To briefly invoke Karl Popper, a tolerant society (a la IDIC) must be intolerant of intolerance otherwise intolerance will spread and destroy the open and tolerant society. This is known as "the paradox of tolerance".
 
 - Post-capitalism economy
+
+Sometimes the Star Trek multiverse has money. Sometimes it doesn't. What you don't hear about is complaints about worker exploitation, cheap labor, gender-fueled pay gaps or other late-stage capitalism-fueled social crises, at least on the member worlds.
+
+Maybe an economics episode would be *boring* for Trekkers, but by measuring the absence of something, the problems caused by late-stage capitalism appear to be at least missing.
+
+- Compassion
+
+Compassion seems to be the opposite of a 4-letter word in Star Trek. A number of episodes revolve around humanitarian initiatives conflicting with the Prime Directive. Also, it's not unusual to see crew members argue FOR doing something those less in need, whether they are fellow Starfleet personnel, Federation member states, or not. Quite the opposite of our so-called "United" States of America.
+
+- Curiosity
+
+The whole "explore strange new worlds" vibe is built into the title opening monologue, recited by William Shatner (Original Series), Patrick Stewart (Next Generation), and Anson Mount (Strange New Worlds). A science officer usually plays a prominent role in the crew or in an episodic plot. Science is revered both in the 22nd, 23rd, 24th, 25th and 32nd centuries.
+
+Wild, huh? Star Trek posits a vision of what humanity and its sister sentient species can accomplish when exploratory science is practiced by everyone, not just oligarch-approved white dudes.
+
+- Camaraderie
+
+Usually, a number of major plots and arcs reject the "rugged individualism" and "pull oneself up by his bootstraps" plot tropes. THe crew has to be a CREW in order to get through the challenge of the week or the season. They may not always like each other, but they figure out a way to work together.
+
+Unlike some people.
+
+## Private property is basically missing from the plot
+
+As Americans, we typically spend about a third-to-half of our adulthood hours working in a job to acquire resources to acquire some kind of property or other kinds of economic status. That's just not a thing in Trek. Sure, Captains Picard and Pike both owned some sweet pieces of land (Picard a vineyard and Pike a remote snow cabin), BUT because their lives weren't spent working towards those goals or maintaining those goals, they were free to do other things like explore outer space.
+
+Because so many of basic food/clothing/shelter things are handled, the lives of Starfleet personnel can be about something else. I **GET** that it would be easy to think that there's a version of that going on in the contemporary American military, but for many soldiers, the military often occurs as the only option to get to a better life. Picard and Pike (who were both senior officers and also white dudes) didn't have to worry about that. And a lot of their crew likely didn't either.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
