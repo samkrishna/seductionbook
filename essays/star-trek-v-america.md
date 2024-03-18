@@ -231,6 +231,36 @@ Practicing environmental genocide (what we euphemistically call "terraforming") 
 
 Lastly, the land itself is just straight-up seized and because of fungible personhood, colonizers basically act like the land just pre-existed and was there for the taking because NO HUMAN was already there. Just a bunch of savages. Whose females were raped and breeded in order to erase said-savages. A version of this story is in any honest history of the Native American genocide during the 17th-19th centuries.
 
+Basically, the colonizer playbook comes down to "erasing the conquered's past to guarantee the conqueror's future". And there's a variation of this that plays out today. Let's get into it.
 
+## Lying about History
 
+There's A LOT of different "birth dates" for America. Here's some of the more famous ones (which may or may not be rigorously "accurate"):
 
+- 1492: Columbus discovers the Americas
+- 1619: The first slave ship lands in Jamestown
+- 1776: The Declaration of Independence was written and proclaimed
+- 1777: The Articles of Confederation were drawn up
+- 1781: The Articles of Confederation were unanimously ratified
+- 1787: The current United States Constitution was written
+- 1789: The Constitution was ratified
+
+A date that's missing from this list is 1783, when the Treaty of Paris was formally signed *recognizing* the United States between representatives of Great Britain and the newly liberated United States. There were also separate peace treaties signed between Great Britain, France, Spain, and the Dutch Republic concluding a long World War, of which the American Colonies were perhaps the largest battlefield.
+
+### The Great Myth at the Heart of the American Revolution
+
+The great myth at the epicenter of the American Revolution is that the Americans, by way of a massively underfunded and under-armored Continental Army, somehow got lucky over and over and over again and defeated the world's preeminent military, the British Imperial Army and Navy, by itself with a very late and very light assist from the French Imperial military.
+
+That idea COULD NOT BE ANY LESS TRUE. The Continental Army could barely afford its supplies since the Continental Congress could not tax its citizens and had to issue payments in the form of bonds, or debtor notes. The whole fight about the national debt that happened much later in George Washington's first term was about this very debt.
+
+In the mean time, the Continental Army's soldiers barely got paid once a year and were massively under-armored in its supplies. And somehow they were destined to defeat the British, the world's greatest military?
+
+Nope.
+
+[The efforts of Silas Deane and then Benjamin Franklin](https://en.wikipedia.org/wiki/France_in_the_American_Revolutionary_War#French_involvement) to convince the Kingdom of France to commit to supporting and then allying with the American war effort was the decisive political, economic and political factor that enabled the eventual military defeat of the British Army.
+
+Once the French Army showed up militarily and not just logistically, George Washington was functionally sidelined from the war effort. He even complained how little command action he was getting because the French had so thoroughly taken up the war effort to defeat the British. At some point the Spanish and the Dutch empires got involved as well, which is what enabled the liberation of the colonies from the British and the eventual Treaty of Paris and its various side treaties.
+
+And yet NO ONE asks WHY, if the Americans **militarily won** the American Revolution, why was the victory treaty negotiated in Paris instead of New York?
+
+Maybe because France's actual role was minimized and erased in the narrative warfare of the American Revolution?
