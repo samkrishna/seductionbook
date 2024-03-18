@@ -159,15 +159,75 @@ As Americans, we typically spend about a third-to-half of our adulthood hours wo
 
 Because so many of basic food/clothing/shelter things are handled, the lives of Starfleet personnel can be about something else. I **GET** that it would be easy to think that there's a version of that going on in the contemporary American military, but for many soldiers, the military often occurs as the only option to get to a better life. Picard and Pike (who were both senior officers and also white dudes) didn't have to worry about that. And a lot of their crew likely didn't either.
 
+## The American Legacy
 
+From the perspective of the Framers and the Founders, what was baked in to the Constitution was the implicit goal of keeping the oligarchs in power forever or destroy the country in the process. It was **UNIMAGINABLE** to them to entertain the idea of women or African-Americans or other ethnic minorities achieving real representation and power without widespread (read: practically unanimous) support from the oligarchs.
 
+Given the power dynamics that were baked in from the beginning, it was imperative and encouraged to enlist gender-traitors (we call them Karens) and race-traitors (we call them Uncle Toms) to help provide some kind of political air cover for what the oligarchs had baked in. After all, if Katie Britt could tell us with a straight face in her "fundamentalist baby voice" that America needed more oligarchy (and let's be clear: that's what she was saying) then it's a signal that women don't have to think too deeply and can get behind the status quo, even at their own general expense. And if Clarence Thomas could keep voting to strike down affirmative action programs in various institutions in order to keep oligarchs as close to having nearly universal unchallengeable power in the classrooms that matter and in boardrooms, then that's a signal that what the oligarchs actually do is approved up by an *unqualified* black man who has benefitted from affirmative action. (He placed a 15-cent price tag on his Yale law school degree).
 
+As a result, we live in a society that from a policy perspective, embraces white patriarchy everywhere, especially in leadership bodies. The starting point for policy-makers is to ignore or actively disregard what would be beneficial to women, especially women of color. In the New York Times, there was an article dated on Sept. 9, 2020 titled "Faces of Power". It was an infographic showing how 80% of the most powerful people in America are White. In the 10 Southern state legislatures, there is a an extreme poverty of female legislators (less than 25%) and even LESS than that percentage are Democratic women. And what's the cost of that?
 
+In 2020, probably the ***WORST*** year for a lot of quality-of-life statistics in America, here's how this idea played out as a proxy for patriarchy. Think of Democratic-run states as "anti-patriarchy" and Republican-run states as "pro-patriarchy".
 
+### Crime
 
+- Murder - Democrats do Vastly Better
+- Rape - Democrats do Slightly Better
+- Robbery - Republicans do Clearly Better
+- Car Theft - Democrats do Clearly Better
 
+### Social Issues
 
+- Divorce - Democrats do Vastly Better
+- Overdose Mortality - Republicans do Vastly Better
+- Suicide Mortality - Democrats do Vastly Better
+- Teen Births - Democrats do Vastly Better
 
+### Economy
+
+- GDP per Capita - Democrats do Vastly Better
+- Median Household Income - Democrats do Vastly Better
+- Unemployment - Democrats do Slightly Better
+- All People in Poverty - Democrats do Vastly Better
+- Child Poverty - Democrats do Vastly Better
+- Pop Graduated HS - Democrats do Slightly Better
+- Pop Graduated College - Democrats do Vastly Better
+- Homelessness - Republicans do Vastly Better
+
+### Health
+
+- Life Expectancy - Democrats do Vastly Better
+- People without Health Insurance - Democrats do Vastly Better
+- Infant Mortality - Democrats do Vastly Better
+- Household Food Insecurity - Democrats do Vastly Better
+- STDs: Chlamydia (Gonorrhea) - Democrats do Clearly (Vastly) Better
+- Adult Obesity. - Democrats do Vastly Better
+- Hypertension Mortality - Democrats do Vastly Better
+
+### Child Welfare
+
+- Infant Mortality - Democrats do Vastly Better
+- Teen Births - Democrats do Vastly Better
+- Divorce - Democrats do Vastly Better
+- Household Food Insecurity - Democrats do Vastly Better
+- Pop Graduated HS - Democrats do Slightly Better
+- Child Poverty - Democrats do Vastly Better
+
+[You can read the original article showing these statistics here.](https://appliedsentience.com/2020/08/02/summary-of-23-quality-of-life-indicators-are-red-or-blue-states-better/)
+
+But *still*, the narrative warfare played out in the media is that Republicans have a better handle on EVERYTHING in their states, and Democratic-run states are sinking hellholes full of aborted fetuses created by drug-fueled rapists.
+
+Which, to be honest, sounds a lot like Colonizer Projection.
+
+## Colonizer Roots and Colonizer Future
+
+One of the prime ways that colonizers conquered a land region is by overthrowing the indigenous language and culture. Also, any good (meaning usable) ideas were promptly assimilated and exported back to the Mother Country (usually the United Kingdom but Spain was not far behind).
+
+Raping women and creating shadow families was also a part of the deal. If you could "breed out" the native population, then you can sow division more easily by creating a form of "bloodline mistrust". These shadow families are unrecognized in the official histories of either the Imperial records or the indigenous records.
+
+Practicing environmental genocide (what we euphemistically call "terraforming") is another way to literally "conquer the land". Clear-cutting forests for imperial wood (which is something we are STILL doing in the Amazon rainforest) is a thing, and that thing causes mass extinctions of species of animals, flora and fauna, and along with it potential carbon sinks that could have mitigated our CO2-emitting culture.
+
+Lastly, the land itself is just straight-up seized and because of fungible personhood, colonizers basically act like the land just pre-existed and was there for the taking because NO HUMAN was already there. Just a bunch of savages. Whose females were raped and breeded in order to erase said-savages. A version of this story is in any honest history of the Native American genocide during the 17th-19th centuries.
 
 
 
