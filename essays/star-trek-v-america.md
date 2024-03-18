@@ -63,17 +63,17 @@ This founding presupposition creates the legal, social, structural and narrative
 
 To the oligarchs, the ideas that are expressed and encapsulated in the Star Trek multiverse would be crazy-making and anathema because it would FORCE THEM to have to compete for political and sexual power, as well as be challenged by the idea that economic power games like capitalism were more ethereal. Let's go through the list of ideas expressed in Star Trek that would make a dude like James Madison crazy:
 
-- Presuppositional commitment to pure empiricism
+### Presuppositional commitment to pure empiricism
 
 The idea that you'd have to actually measure and collect the data from a  phenomena, and THEN have a commitment to that data taking the scientist where it goes, rather than something that is automatically predisposed to supporting rich white dudes acquiring even more money would be clinically insane to the dudes of 1787.
 
-- The JJR view of Human Nature being basically good
+### The JJR view of Human Nature being basically good
 
 Humans would be operating as adults and practicing decent emotional self-regulation. They wouldn't play the victim and they'd also take responsibility when things weren't working. They'd also actively resist allowing their system of governance (the Federation, Starfleet, and various member planets) to enshittify themselves.
 
 What's the fun in that for the rich white dudes? I mean, if they can't exploit prey on someone else's psychological or systemic weaknesses, what is the actual point of its existence?
 
-- Adult men and women are automatically given equality, both narratively and societally
+### Adult men and women are automatically given equality, both narratively and societally
 
 Setting aside all the controversy around gender roles and their pronouns, the typical man and woman in the Federation starts off automatically equal independent of their "status", because status (beyond Starfleet ranks) doesn't really exist. Men and women and non-binaries are basically equal, and can initiate and engage in mating rituals with reputational, familial, or economic consequences beyond whether or not they break their specific relationship contracts with their partners. Also, women get to keep their property before and after a relationship as opposed to having it automatically assigned to their spouse and losing it in the wake of a breakup or a divorce.
 
@@ -85,7 +85,7 @@ SPECIAL NOTE: At this point, you should be thinking something like "wow, that im
 
 SECOND SPECIAL NOTE: Unless you're a rich white dude, the government still classifies you as a pet. And again, just to be clear, $100M is the buy-in. This is WHEN the government will respond to you easily. Likely because (1) the Senate in any given Congress is roughly 70% white men (that percentage is painfully slowly going down) and (2) you've got enough money to either (a) create a super PAC or (b) have enough oligarch friends that are listened to such that you're taken care of.
 
-- Positive human rights are (automatically) granted, not subverted
+### Positive human rights are (automatically) granted, not subverted
 
 The Universal Declaration of Human Rights is a good starting point. There's a number of positive rights in there. One of them, Article 6, is a doozy: *Everyone has the right to recognition everywhere as a person before the law.*
 
@@ -105,7 +105,7 @@ Riiiiiiiiight... the Constitution DOES NOT GUARANTEE a positive right to "Life, 
 
 No "right to life" for you!
 
-- War and violence are NOT the first go-to response when encountering difficulties
+### War and violence are NOT the first go-to response when encountering difficulties
 
 I can't tell you how many times as a teenager watching "Star Trek: The Next Generation" and being utterly BORED with why Picard showed such ridiculous levels of restraint in following this thing I'd never heard about called "The Prime Directive". Often it had to do with an unwillingness to start a conflict just because he wasn't going to get his way automatically.
 
@@ -123,35 +123,37 @@ According to OUR Constitution, Gene Roddenberry, in case it's not clear, was a f
 
 ## Other attributes of the Star Trek multiverse
 
-- Infinite Diversity in Infinite Combinations
+### Infinite Diversity in Infinite Combinations
 
 While "credited" to the Vulcan culture (think Mr. Spock), it's the core philosophy of Star Trek and its creator, Gene Roddenberry. Paraphrasing Kagi's AI, [IDIC] reflects the Vulcan belief that truth, beauty and logic (the Vulcan form for "goodness") emerge from the infinite diversity across the universe and how those differences combine.
 
 SPECIAL NOTE ABOUT HATERS: There's a right-wing fallacy that shows up from time to time in Star Trek-based arguments about how right-wing hate (casteism, racism, misogyny, etc) should be accepted with every other viewpoint in an IDIC-driven universe. Nope That's not how it works. To briefly invoke Karl Popper, a tolerant society (a la IDIC) must be intolerant of intolerance otherwise intolerance will spread and destroy the open and tolerant society. This is known as "the paradox of tolerance".
 
-- Post-capitalism economy
+### Post-capitalism economy
 
 Sometimes the Star Trek multiverse has money. Sometimes it doesn't. What you don't hear about is complaints about worker exploitation, cheap labor, gender-fueled pay gaps or other late-stage capitalism-fueled social crises, at least on the member worlds.
 
 Maybe an economics episode would be *boring* for Trekkers, but by measuring the absence of something, the problems caused by late-stage capitalism appear to be at least missing.
 
-- Compassion
+### Compassion
 
 Compassion seems to be the opposite of a 4-letter word in Star Trek. A number of episodes revolve around humanitarian initiatives conflicting with the Prime Directive. Also, it's not unusual to see crew members argue FOR doing something those less in need, whether they are fellow Starfleet personnel, Federation member states, or not. Quite the opposite of our so-called "United" States of America.
 
-- Curiosity
+While a number of actors complained about how Gene Roddenberry banned intracrew conflict on Next Generation, the whole idea of having a different starting point in relating to other crew members and other species other than being shitty or being defensive in the face of said shittiness is still something of a revolutionary idea in contemporary culture.
+
+### Curiosity
 
 The whole "explore strange new worlds" vibe is built into the title opening monologue, recited by William Shatner (Original Series), Patrick Stewart (Next Generation), and Anson Mount (Strange New Worlds). A science officer usually plays a prominent role in the crew or in an episodic plot. Science is revered both in the 22nd, 23rd, 24th, 25th and 32nd centuries.
 
 Wild, huh? Star Trek posits a vision of what humanity and its sister sentient species can accomplish when exploratory science is practiced by everyone, not just oligarch-approved white dudes.
 
-- Camaraderie
+### Camaraderie
 
 Usually, a number of major plots and arcs reject the "rugged individualism" and "pull oneself up by his bootstraps" plot tropes. THe crew has to be a CREW in order to get through the challenge of the week or the season. They may not always like each other, but they figure out a way to work together.
 
 Unlike some people.
 
-## Private property is basically missing from the plot
+### Private property is basically missing from the plot
 
 As Americans, we typically spend about a third-to-half of our adulthood hours working in a job to acquire resources to acquire some kind of property or other kinds of economic status. That's just not a thing in Trek. Sure, Captains Picard and Pike both owned some sweet pieces of land (Picard a vineyard and Pike a remote snow cabin), BUT because their lives weren't spent working towards those goals or maintaining those goals, they were free to do other things like explore outer space.
 
