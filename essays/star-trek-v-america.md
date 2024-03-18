@@ -264,3 +264,13 @@ Once the French Army showed up militarily and not just logistically, George Wash
 And yet NO ONE asks WHY, if the Americans **militarily won** the American Revolution, why was the victory treaty negotiated in Paris instead of New York?
 
 Maybe because France's actual role was minimized and erased in the narrative warfare of the American Revolution?
+
+### History rhyming again and again
+
+A version of the same "erasure of the record" happened after the Civil War. Even if the South was militarily and economically defeated at the end of the Civil War, a continuing rear-guard action happens to this very day.
+
+By exploiting a loophole in the 13th Amendment, both public and private prisons can exploit prisoners to engage in uncompensated or incredibly cheap labor for American corporations.
+
+Also, when Reconstruction formally in 1877 as part of the settlement of the Presidential election of 1876, the South began an open and public campaign of terrorism against the formerly enslaved populations. While it is true that there has been *some* progress in the South since the Civil Rights Movement's heyday in the 1960s, the right to vote still does not exist as a positive right and many Southern states employ legislatively sanctioned voter suppression tactics to disenfranchise as many people as possible, especially in the ethnic minorities as well as women.
+
+Given that the Sons and Daughters of the Rebellion completely took over the Republican Party, the party that originally defeated the Confederate government in the War of the Rebellion, I'd venture to say that the South "won" the narrative version of the Civil War through some mixture of physical, narrative, and legislative warfare. Especially AFTER it lost the first round militarily.
