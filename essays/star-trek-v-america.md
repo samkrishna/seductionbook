@@ -159,7 +159,9 @@ As Americans, we typically spend about a third-to-half of our adulthood hours wo
 
 Because so many of basic food/clothing/shelter things are handled, the lives of Starfleet personnel can be about something else. I **GET** that it would be easy to think that there's a version of that going on in the contemporary American military, but for many soldiers, the military often occurs as the only option to get to a better life. Picard and Pike (who were both senior officers and also white dudes) didn't have to worry about that. And a lot of their crew likely didn't either.
 
-## The American Legacy
+# The American Legacy
+
+## White Male Supremacy At All Costs
 
 From the perspective of the Framers and the Founders, what was baked in to the Constitution was the implicit goal of keeping the oligarchs in power forever or destroy the country in the process. It was **UNIMAGINABLE** to them to entertain the idea of women or African-Americans or other ethnic minorities achieving real representation and power without widespread (read: practically unanimous) support from the oligarchs.
 
@@ -210,7 +212,7 @@ In 2020, probably the ***WORST*** year for a lot of quality-of-life statistics i
 - Teen Births - Democrats do Vastly Better
 - Divorce - Democrats do Vastly Better
 - Household Food Insecurity - Democrats do Vastly Better
-- Pop Graduated HS - Democrats do Slightly Better
+- Population Graduated from High School - Democrats do Slightly Better
 - Child Poverty - Democrats do Vastly Better
 
 [You can read the original article showing these statistics here.](https://appliedsentience.com/2020/08/02/summary-of-23-quality-of-life-indicators-are-red-or-blue-states-better/)
