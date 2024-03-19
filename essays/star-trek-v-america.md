@@ -245,11 +245,11 @@ There's A LOT of different "birth dates" for America. Here's some of the more fa
 - 1787: The current United States Constitution was written
 - 1789: The Constitution was ratified
 
-A date that's missing from this list is 1783, when the Treaty of Paris was formally signed *recognizing* the United States between representatives of Great Britain and the newly liberated United States. There were also separate peace treaties signed between Great Britain, France, Spain, and the Dutch Republic concluding a long World War, of which the American Colonies were perhaps the largest battlefield.
+A date that's missing from this list is 1783, when the Treaty of Paris was formally signed *recognizing* the United States' existence as a sovereign nation between representatives of Great Britain and the newly liberated colonies. There were also separate peace treaties signed between Great Britain, France, Spain, and the Dutch Republic concluding a long World War, of which the American Colonies were perhaps the largest battlefield. A lot of land changed hands during that time, of which the former American colonies were just a PART of the conclusion of a large World War between the four empires.
 
 ### The Great Myth at the Heart of the American Revolution
 
-The great myth at the epicenter of the American Revolution is that the Americans, by way of a massively underfunded and under-armored Continental Army, somehow got lucky over and over and over again and defeated the world's preeminent military, the British Imperial Army and Navy, by itself with a very late and very light assist from the French Imperial military.
+The great myth at the epicenter of the American Revolution is that the Americans, by way of a massively underfunded and under-armored Continental Army, somehow got lucky and plucky over and over and over again and defeated the world's preeminent military, the British Imperial Army and Navy, by itself with a very late and very light assist from the French Imperial military.
 
 That idea COULD NOT BE ANY LESS TRUE. The Continental Army could barely afford its supplies since the Continental Congress could not tax its citizens and had to issue payments in the form of bonds, or debtor notes. The whole fight about the national debt that happened much later in George Washington's first term was about this very debt.
 
