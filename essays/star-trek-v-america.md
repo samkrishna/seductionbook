@@ -274,3 +274,21 @@ By exploiting a loophole in the 13th Amendment, both public and private prisons 
 Also, when Reconstruction formally ended in 1877 as part of the settlement of the Presidential election of 1876, the South began an open and public campaign of terrorism against the formerly enslaved populations. This is what the Jim Crow era was about. While it is true that there has been *some* progress in the South since the Civil Rights Movement's heyday in the 1960s, the right to vote still does not exist as a positive right and nearly every Southern states employ legislatively sanctioned voter suppression tactics to disenfranchise as many people as possible, especially ethnic minorities as well as women.
 
 Given that the Sons and Daughters of the Rebellion completely took over the Republican Party, the party that originally defeated the Confederate government in the War of the Rebellion, I'd venture to say that the South "won" the narrative version of the Civil War through some mixture of physical, narrative, and legislative warfare. Especially AFTER it lost the first round militarily.
+
+## More White Male-washing of History
+
+It's a good bed to assume that almost every major historical event, discovery or movement had women and/or indigenous populations at or near the epicenter of the story. And because White Dudes have usually controlled the narrative, they take it upon themselves to erase the indigenous, the ethnic minorities, and women out of those same stories.
+
+Think of it as Narrative Colonization.
+
+For example, in the Oppenheimer movie that Best Picture for 2024 and written and directed by Christopher Nolan, there's ZERO mention of how the Federal Government used a brutal form of Eminent Domain to seize the lands of the Hispanic and Native American peoples that were already at Los Alamos in order to set up the temp city housing the Manhattan Project.
+
+The same thing happened with computer technology.
+
+While it is *true* that Alan Turing and John von Neumann contributed A LOT to the theoretical underpinnings of the computing device, what is OFTEN left out of any history is the story of how Adm. Grace Hopper invented the first compiler which is used to translate source code to assembly. Without that SINGLE invention, there would really be NO software development. We'd still be using some weird mixture of punch cards and switch configuration to program computers, and the technology you're reading this on wouldn't be possible. She also contributed to an ancestor language to COBOL, one of the first human-readable programming languages. But most software developers have no idea who she is and what she contributed to computer science.
+
+Also, unless you've read or watched *Hidden Figures*, you likely have NO idea that African-American women pioneered the rocket mathematics and computational work that enabled NASA to put John Glenn into orbit. In fact, the term "computers" used to be the job description for the women who did the raw number-crunching for NASA. When the term was appropriated for the machine class we now call computers, the African-American women who held those roles were erased from NASA's popular history as the government focused on the Space Race with the Soviet Union and celebrating the "heroism" of the astronauts who never would have gotten into orbit, much less the moon, without the mathematical prowess of the African-American women pioneering the orbital mechanics and equations and the technology to do the vast amount of number-crunching needed for each mission.
+
+Apple contributed to this erasure trend as well. [During the Apple II era in the late 1970s, Apple's advertising portrayed the users of its hardware as primarily male hobbyists and office workers.](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding) It's almost certainly true that some mixture of Steve Jobs, Mike Markulla and Regis McKenna shaped the brand advertising to cater exclusively to male hobbyists and male office workers, thereby reinforcing public perceptions that computer science was a male-only career path and that women and ethnic minorities like African Americans and Native Americans need not apply.
+
+Again, modern colonization may not involve classical genocide. It just could be repurposed "narrative genocide".
