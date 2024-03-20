@@ -292,3 +292,24 @@ Also, unless you've read or watched *Hidden Figures*, you likely have NO idea th
 Apple contributed to this erasure trend as well. [During the Apple II era in the late 1970s, Apple's advertising portrayed the users of its hardware as primarily male hobbyists and office workers.](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding) It's almost certainly true that some mixture of Steve Jobs, Mike Markulla and Regis McKenna shaped the brand advertising to cater exclusively to male hobbyists, office workers and fathers and sons, thereby reinforcing public perceptions that computer science was a male-only career path and that women and ethnic minorities like African Americans and Native Americans need not apply.
 
 Again, modern colonization may not involve classical genocide. It just could be repurposed "narrative genocide".
+
+# Ways to Think About How the Past Fights the Future
+
+## Doing nothing is always better than doing something
+
+"Conservatism" in all its various forms argues for slow-rolling progress or making sure society does as little as possible to preserve norms and traditions from the past. There's often some argument about how "too much change too soon" will destabilize "society". And by "society", conservatives mean the status quo of unchallengeable oligarchic power. Because if "doing nothing" is carried out, the oligarchs get to stay happy and won't raise a fuss, right?
+
+## Avoiding structural change at all costs
+
+There are SOOOOO many examples of this. But one egregious example is the 700 failed attempts to reform or eliminate the electoral college. It's nearly UNIVERSALLY agreed to be such a bad idea that no other democracy has copied since its U.S. inception in 1787. In fact, it's only defenders are small state politicians who openly say it's the only way small state politicians have a chance to get elected President.
+
+The impossibility-to-date of reforming the electoral college is a function of the supermajority threshold to amend the Constitution. The way it's ALWAYS done to date is to get 2/3rds of both the House (288 Representatives) and the Senate (67 Senators) to propose (in essence, "vote out of committee") an amendment. After that, 3/4th of the states (38 legislatures) have to ratify the amendment. Sometimes that can be a simple majority vote in both houses, and sometimes it can be a supermajority vote in both houses (either 3/5th or 2/3rds of the legislators).
+
+And then sometimes it really doesn't matter anyway what an amendment says, right? SCOTUS decided on March 4, 2024 that former President Trump, who was impeached for "incitement of insurrection", could remain on the Colorado presidential ballot. This was ***IN SPITE OF*** the fact that Section 3 reads as follows (this was adopted on July 9, 1868 in the wake of the War of the Rebellion):
+
+>Section 3. No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may, by a vote of two-thirds of each House, remove such disability.
+
+Now, there have been some *howlers of incredulity* as to the Trump attorneys' arguments about why Trump should NOT be disqualified (one was that the President **IS NOT** an officer of the United States). Even though SCOTUS voted 9-0 as to why Trump should remain on the ballot, and that unanimity glossed over A LOT of dissent as to the "why he should remain", the pertinent fact here IS NOT that the plain text of the amendment was nullified and Section 3 was disemboweled. The pertinent fact here is that there was NOTHING about the plain text of this section that mattered to this SCOTUS. What I mean is that if SCOTUS wants to find a way to say "red" is "blue", or "grounds for disqualification" are now "not grounds for disqualification", then who cares what the Constitution or the Amendments say? Because after all, whatever SCOTUS says, that IS the Constitution.
+
+And as a BONUS, SCOTUS had 3 Justices appointed by Trump and 1 Justice appointed by Biden. So 4 judges had HOPELESS conflicts of interest and yet they decided anyway. And there's NO WAY to structurally fix THAT.
+
