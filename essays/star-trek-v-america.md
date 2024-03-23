@@ -385,5 +385,26 @@ Alright, so I can still feel your eyes bleeding. Sorry. At this point you're goi
 
 The bottom line: it's all about quietly creating *enshittification* for rural voters to keep them locked in to voting Republican and reinforcing support for the oligarchs. That's how hope and faith get twisted and co-opted. Because if "White Jesus" disapproves of that evil white man-hating Democrat party, and you vote against the Dems and vote for the Republicans, and things **GET WORSE**, then your **Victory in Jesus** becomes even more promised, because you can't NEVER EVER EVER admit that you made a mistake because if you're wrong, than the White Supremacist Christianity you practice might also have some problems, too.
 
+## The Metric System
+
+So as it turns out, Thomas Jefferson, when he was the FIRST Secretary of State, was introduced to the still-in-draft-form of the metric system as far back as 1790. The metric system wasn't finalized until 1799, just in time for Jefferson's first presidential campaign in 1800.
+
+And yet he took a pass on it, instead choosing the past of least resistance: sticking with the British Imperial System. Our very non-standard ways of measuring things based on the British Empire won out. There was an extremely half-hearted effort passed by a Democratic Congress and signed by Pres. Gerald Ford calling for ["the voluntary conversion to the metric system."](https://www.theverge.com/2019/6/25/18693533/metric-system-measurement-us-conversion-act-verge-science)
+
+And because it's voluntary, nothing will ever happen in relationship to that Act.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
