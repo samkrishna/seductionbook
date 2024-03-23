@@ -311,5 +311,79 @@ And then sometimes it really doesn't matter anyway what an amendment says, right
 
 Now, there have been some *howlers of incredulity* as to the Trump attorneys' arguments about why Trump should NOT be disqualified (one was that the President **IS NOT** an officer of the United States). Even though SCOTUS voted 9-0 as to why Trump should remain on the ballot, and that unanimity glossed over A LOT of dissent as to the "why he should remain", the pertinent fact here IS NOT that the plain text of the amendment was nullified and Section 3 was disemboweled. The pertinent fact here is that there was NOTHING about the plain text of this section that mattered to this SCOTUS. What I mean is that if SCOTUS wants to find a way to say "red" is "blue", or "grounds for disqualification" are now "not grounds for disqualification", then who cares what the Constitution or the Amendments say? Because after all, whatever SCOTUS says, that IS the Constitution.
 
-And as a BONUS, SCOTUS had 3 Justices appointed by Trump and 1 Justice appointed by Biden. So 4 judges had HOPELESS conflicts of interest and yet they decided anyway. And there's NO WAY to structurally fix THAT.
+And as a BONUS, SCOTUS had 3 Justices appointed by Trump and 1 Justice appointed by Biden. So 4 judges had HOPELESS conflicts of interest with regards to the 2024 election and yet they decided anyway. And there's NO WAY to structurally fix THAT.
+
+## The "Don't Tell Me What To Do" crowd
+
+Conservatives like to scream about how "Big Government" is trampling their rights and that they shouldn't have to conform to any legislatively- or executive-mandated coercion.
+
+The oligarchs USE these people (almost always Evangelical Christians) as a way to get out of submitting to A LOT of regulation that is beneficial to the population as a mass group. Things like mass vaccinations during the first years of the COVID-19 crisis, or environmental regulations, or the current litigation around mifespristone, a drug that can medically induce abortions.
+
+And of course, everyone's favorite: gun control to prevent mass shootings. According to the Gun Violence Archive, [there were 656 mass shootings in 2023](https://www.gunviolencearchive.org/reports/mass-shooting?year=2023). We are BY FAR the most [armed-per-capita country on the planet](https://www.vox.com/23142734/kansas-city-superbowl-mass-shooting), and as a result we have the most gun violence, both fatal and non-fatal. We have approximately 120.5 guns per 100 residents. As a consequence of that level of gun armor, we also have 120 Americans die from some type of gun violence. And yet the "Good Guy with a Gun beats a Bad Guy with a Gun" narrative still captures the imagination of (mostly) conservative rural whites. Also, in the most recent famous mass shooting at the Kansas City parade celebrating the Super Bowl victory of the Kansas City Chiefs, there were [more than 850 police officers](https://www.kansascity.com/news/local/article285539852.html) present from both Kansas City police departments (both Kansas and Missouri), the Kansas State Police and the FBI.
+
+I personally have TWO favorite parts of this story to show the absurdity of the dominant "guns don't kill people, people kill people" narrative:
+
+1. Stacey Graves, The Kansas City, Missouri police chief, refused to answer any questions about what could be done to have prevented this particular mass shooting. (FYI: The correct answer is always going to be "fewer guns" every single time this question is asked.)
+2. There were approximately EIGHT HUNDRED AND FIFTY trained law enforcement professionals AND YET somehow the presence of mass law enforcement DID NOT DETER the shooters from starting another mass shooting event.
+
+But IF we as a society through our legislative bodies ever suggest doing ANYTHING about it, the "Church of the Gun" worshippers start screaming and making death threats to our legislators and law enforcement professionals for *doing their job to protect society in the large*.
+
+So far, as a sampler, the "Don't Tell Me What To Do" crowd keeps the oligarchs in power by:
+
+- Fighting public health measures like vaccine mandates and gun control
+- Screaming about the "Lie from the Pit of Hell" about the Climate Crisis
+- Staying in a tizzy with their "Forced Birth" position
+- Keeping the American Caste system in place through racism, misogyny, homophobia, ableism, sexual orientation, class, geography, taxation, etc.
+
+There are others, but I'm just focusing on this batch here.
+
+All of these divisions are designed to prevent us as a society from focusing on taxing, regulating, and limiting oligarchs in their economic and political power in order to provide for the common welfare. That's why this stuff happens and keeps happening.
+
+Go back and look at the James Madison quote at the top of the essay and then come back. I'll wait.
+
+## The Death of Hope and Faith
+
+Another part of the whole point of this [enshittification of America](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) is that it leaves enough Americans in a state of coerced-divided-and-conquered helplessness.
+
+If you'll indulge a bit of a generalization, I'll explain:
+
+Red state voters have measurably WORSE outcomes for the vast majority of what I'm going to call "common welfare issues": public health, economic growth, crime, high school graduations per capita, etc. And yet they are LIED TO constantly about how great they are doing compared to the, ahem, *urban shithole cities* that Fox News, Sinclair Broadcasting, and other right-wing media keeps pumping them through some mix of white male and white female talent (with "token" minority talent) to keep reassuring them that they don't have to change and that their job is to oppose all social changes from the outside world. So they keep re-hiring the same not-exactly-incompetent Republican state and federal legislators cycle after cycle, and things KEEP. GETTING. WORSE.
+
+Rural White Voters keep re-upping on being betrayed by their Republican Representatives and then reinforcement-coddled in their victimhood. The canonical descriptor about this and the ensuing controversy came by way of Barack Obama in April 2008 when he attended a fundraiser and remarked about struggling small-town voters: "They get bitter, they cling to guns or religion or antipathy to people who aren't like them or anti-immigrant sentiment or anti-trade sentiment as a way to explain their frustrations."
+
+There were a number of problems with this quote aka "gaffe":
+
+- It spoke an INCONVENIENT TRUTH that should never be publicly disclosed
+- Hillary Clinton's counter-attack on Obama as response to the quote reinforced the status quo
+
+What is the status quo? Glad you asked!
+
+The status quo contract between political elites and rural voters is to emotionally pander to them and never challenge them to confront themselves and grow and change in exchange for their votes, or at the very least, their tacit consent to not engage in some form of armed rebellion. In exchange, [state and federal politicians get to keep transferring taxes and educational and business opportunities OUT OF Rural America and lie to them about it](https://www.amazon.com/dp/0593729145). More simply, Republican state and federal legislators exclusively pander to their constituents religiously, but not economically. And then they turn around and transfer THEIR tax dollars to their wealthiest donors and write economic policies that exclusively favor same donors.
+
+That's [the whole point of the American Legislative Exchange Council aka ALEC](https://www.alecexposed.org/wiki/ALEC_Exposed). Think of ALEC as a sister organization to the Federalist Society.
+
+So that's A LOT of detail, and I can almost feel your eyes bleeding as you experience a strong case of [tl;dr syndrome](https://www.dictionary.com/browse/TLDR). So, let me simplify and generalize this even further:
+
+- Rural White Voters get to keep their childhood God, who always looks like some version of [White Jesus](https://youtu.be/dfJCyDmTwyg)
+- Because they are UTTERLY surrounded by other white people almost exclusively, they have a homogenous mindset reinforced by church attendance and "Friday Night Lights" football games. This homogeneity has roughly two points of origin:
+	- Original government policies ONLY allowing White Men to own land at the time of the Constitution's inception (esp. in the South) as well as Jim Crow terrorism cowing African-Americans into fleeing (aka [The Great Migration](https://www.amazon.com/dp/0679763880))
+	- Continous policies of segregation, whether it was explicitly racial (Jim Crow and its antecedants) or [economic in the modern era](https://www.amazon.com/dp/0525577335). Bonus points if you already knew that it happens EVERYWHERE and not just in the South.
+- These same White Voters listen to AM Radio, Fox News, Sinclair Broadcasting stations, and right wing social media posts shared by their friends and family all the time. These groups are ***constantly*** self-reinforcing their programming that "ANYTHING DIFFERENT FROM US IS BAD".
+- This is why any appeals based on "cultural security" can easily exploit them, even if the appeals are demonstrably untrue.
+- Any argument that *challenges* their built-in victim posture, which they have to adapt in order to preserve their need for cultural security, will be automatically dessicated and rejected.
+
+Why? Because the addictive need to be right about my/your/our past keeps us in a self-reinforcing feedback loop of self-victimization. The Loop sounds or feels like a version of this:
+
+1. My small town is losing economic opportunity
+2. Everyone I listen to tell me it's the government's fault
+3. I keep electing Republicans to represent ME at the state and federal levels and my Republican Party dominates the state legislature (because Democrats are the party of Bad Government and Republicans are the Party of NO government) because it makes me feel good to "stick it to those gay communist libruls in the Democrat Party"
+4. Go to Step 1
+
+However, BEHIND MY BACK, my Republican state and federal legislators pass laws to transfer tax money out of my state and into the hands of their corporate sponsors and donors. They also write laws and policies to create economically negative impact policies towards me and my community to keep me angry so that I'll keep feeling like a victim. And they'll blame Democrats for my problems even though I'm the one who voted for the Republicans who did this to me. And I'll believe the Republican politicians only because everyone around me agrees with them AND Fox News is reinforcing that I'm always going to be a victim of the Democrat Party.
+
+Alright, so I can still feel your eyes bleeding. Sorry. At this point you're going to have to work a little bit for that 4-step process or for the "BEHIND MY BACK" paragraph to make sense until the next revision of this essay.
+
+The bottom line: it's all about quietly creating *enshittification* for rural voters to keep them locked in to voting Republican and reinforcing support for the oligarchs. That's how hope and faith get twisted and co-opted. Because if "White Jesus" disapproves of that evil white man-hating Democrat party, and you vote against the Dems and vote for the Republicans, and things **GET WORSE**, then your **Victory in Jesus** becomes even more promised, because you can't NEVER EVER EVER admit that you made a mistake because if you're wrong, than the White Supremacist Christianity you practice might also have some problems, too.
+
+
 
