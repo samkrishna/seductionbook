@@ -391,9 +391,9 @@ So as it turns out, Thomas Jefferson, when he was the FIRST Secretary of State, 
 
 And yet he took a pass on it, instead choosing the past of least resistance: sticking with the British Imperial System. Our very non-standard ways of measuring things based on the British Empire won out. There was an extremely half-hearted effort passed by a Democratic Congress and signed by Pres. Gerald Ford calling for ["the voluntary conversion to the metric system."](https://www.theverge.com/2019/6/25/18693533/metric-system-measurement-us-conversion-act-verge-science)
 
-And because it's voluntary, nothing will ever happen in relationship to that Act.
+And because it's voluntary, nothing will ever happen in relationship to that Act. Or us getting with the goddamn program the rest of the planet is on. And every so often, [we'll have stupid shit like this](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter#Project_costs) that costed around HALF A BILLION DOLLARS adjusted for inflation.
 
-
+Thanks, TJ.
 
 
 
