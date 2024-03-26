@@ -5,9 +5,9 @@
       <column name="text" width="939"/>
     </editor> -->
     <title>Star-Trek-v-America</title>
-    <dateCreated>Wed, 13 Mar 2024 18:46:54 GMT</dateCreated>
+    <dateCreated>Tue, 26 Mar 2024 13:12:36 GMT</dateCreated>
     <expansionState>0,1,2,6,8,12,15,20,21,23,31,40,46,52,55,60,72,73,75,79,84,90,97</expansionState>
-    <vertScrollState>22</vertScrollState>
+    <vertScrollState>92</vertScrollState>
     <windowTop>-70</windowTop>
     <windowLeft>1117</windowLeft>
     <windowRight>2077</windowRight>
@@ -124,7 +124,7 @@
     <outline text="Creating an Oligarchy pretending to be a Democracy">
       <outline text="Rampant inequality"/>
       <outline text="Concentrating wealth, political and technological power"/>
-      <outline text="Negate all challenges by declaration and demonization of Communism and Socialism"/>
+      <outline text="Negate all challenges to the status quo by declaration and demonization of Communism and Socialism"/>
       <outline text="Glorify the Past and the Framers as a way to keep the upper hand in the narrative war"/>
       <outline text="Competition is for losers (Peter Thiel)"/>
     </outline>
@@ -134,7 +134,7 @@
       <outline text="The Electoral College"/>
       <outline text="Lifetime appointment of federal judges (esp. with an ever-increasing median age limit)" _note="Lifespan has roughly doubled in the last 200 years"/>
       <outline text="Legislatures drawing their own districts"/>
-      <outline text="Nullification of ballot-driven amendments"/>
+      <outline text="Supermajority threshold for Amendment codification"/>
     </outline>
     <outline text="Always lie and conceal about history">
       <outline text="The South Won the Civil War"/>
