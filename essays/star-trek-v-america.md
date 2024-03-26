@@ -395,16 +395,39 @@ And because it's voluntary, nothing will ever happen in relationship to that Act
 
 Thanks, TJ.
 
+***Jackass.***
 
+## Land is More Important than People
 
+A **LOT** of what keeps all this stuff locked into place is that land (and specifically the *wha has ownership* of land) is considered more important than the people themselves.
 
+It'll hopefully get explicated later, but the core idea is that the Framers very specifically INTENDED (as a part of their (and our) Devil's Bargain) is to give rural states where ***FAR FEWER*** people lived a vetocratic superpower over the more populous states where more people lived.
 
+This was at a time where the State of New York was considered the "Super State". At the time It had the financial capital of the young country (Wall Street) as well as the political capital of the young country.
 
+I haven't found YET the records of a usable census and their counts for the year 1787. [Here's what I could find](https://www.census.gov/history/pdf/colonialbostonpops.pdf) based on the first published Census count from 1790:
 
+1. Virginia: 747,610
+2. Pennsylvania: 434,373
+3. North Carolina: 395,005
+4. Massachusetts: 378,556
+5. New York: 340,241
+6. Maryland: 319,728
+7. South Carolina: 249,073
+8. Connecticut: 237,655
+9. New Hampshire: 141,899
+10. Vermont: 85,341
+11. Georgia: 82,548
+12. Rhode Island: 69,112
+13. Delaware: 50,046
 
+So, a FEW NOTES about this list:
 
+ONE: Vermont's town and village populations weren't even explictly counted or broken out of the New York state census until the first Federal Census in 1790. So using a retcon-level numerical thought experiment, New York would have vaulted from \#5 to \#3 in terms of being in the "Big 3" for population count == influence.
 
+TWO: These census takers didn't always play by the same uniform rules in terms of who counted and who didn't during the taking of the census pre-Constitution. Native Americans and slaves were counted or not counted arbitrarily. Basically, not everyone counted equally, which is very on-brand.
 
+THREE: Because of the 3/5th count of slaves collectively agreed on in 1787, it's POSSIBLE that the counts are off ANYWAY because of that one fact alone. Slave states wanted full **COUNTING** advantage during censuses, but the Framers collectively and explicitly agreed that women and slaves **SHOULD NOT GET** didn't representational proportionality at the decision table.
 
 
 
