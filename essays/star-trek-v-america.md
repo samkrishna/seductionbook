@@ -356,7 +356,7 @@ There were a number of problems with this quote aka "gaffe":
 - It spoke an INCONVENIENT TRUTH that should never be publicly disclosed
 - Hillary Clinton's counter-attack on Obama as response to the quote reinforced the status quo
 
-What is the status quo? Glad you asked!
+What is the status quo? I'm glad you asked!
 
 The status quo contract between political elites and rural voters is to emotionally pander to them and never challenge them to confront themselves and grow and change in exchange for their votes, or at the very least, their tacit consent to not engage in some form of armed rebellion. In exchange, [state and federal politicians get to keep transferring taxes and educational and business opportunities OUT OF Rural America and lie to them about it](https://www.amazon.com/dp/0593729145). More simply, Republican state and federal legislators exclusively pander to their constituents religiously, but not economically. And then they turn around and transfer THEIR tax dollars to their wealthiest donors and write economic policies that exclusively favor same donors.
 
@@ -365,12 +365,12 @@ That's [the whole point of the American Legislative Exchange Council aka ALEC](h
 So that's A LOT of detail, and I can almost feel your eyes bleeding as you experience a strong case of [tl;dr syndrome](https://www.dictionary.com/browse/TLDR). So, let me simplify and generalize this even further:
 
 - Rural White Voters get to keep their childhood God, who always looks like some version of [White Jesus](https://youtu.be/dfJCyDmTwyg)
-- Because they are UTTERLY surrounded by other white people almost exclusively, they have a homogenous mindset reinforced by church attendance and "Friday Night Lights" football games. This homogeneity has roughly two points of origin:
+- Because they are UTTERLY surrounded by other rural white people almost exclusively, they have a homogenous mindset reinforced by church attendance and "Friday Night Lights" football games. This homogeneity has roughly two points of origin:
 	- Original government policies ONLY allowing White Men to own land at the time of the Constitution's inception (esp. in the South) as well as Jim Crow terrorism cowing African-Americans into fleeing (aka [The Great Migration](https://www.amazon.com/dp/0679763880))
 	- Continous policies of segregation, whether it was explicitly racial (Jim Crow and its antecedants) or [economic in the modern era](https://www.amazon.com/dp/0525577335). Bonus points if you already knew that it happens EVERYWHERE and not just in the South.
 - These same White Voters listen to AM Radio, Fox News, Sinclair Broadcasting stations, and right wing social media posts shared by their friends and family all the time. These groups are ***constantly*** self-reinforcing their programming that "ANYTHING DIFFERENT FROM US IS BAD".
 - This is why any appeals based on "cultural security" can easily exploit them, even if the appeals are demonstrably untrue.
-- Any argument that *challenges* their built-in victim posture, which they have to adapt in order to preserve their need for cultural security, will be automatically dessicated and rejected.
+- Any argument that *challenges* their built-in victim posture, which they have to adapt in order to preserve their self-esteem driven need for cultural security, will be automatically dessicated and rejected.
 
 Why? Because the addictive need to be right about my/your/our past keeps us in a self-reinforcing feedback loop of self-victimization. The Loop sounds or feels like a version of this:
 
@@ -399,13 +399,13 @@ Thanks, TJ.
 
 ## Land is More Important than People
 
-A **LOT** of what keeps all this stuff locked into place is that land (and specifically the *wha has ownership* of land) is considered more important than the people themselves.
+A **LOT** of what keeps all this stuff locked into place is that land (and specifically the *wha has ownership and representation* of the land) is considered more important than the people themselves.
 
-It'll hopefully get explicated later, but the core idea is that the Framers very specifically INTENDED (as a part of their (and our) Devil's Bargain) is to give rural states where ***FAR FEWER*** people lived a vetocratic superpower over the more populous states where more people lived.
+It'll get explicated later, but the core idea is that the Framers very specifically INTENDED (as a part of their (and our) Devil's Bargain) is to give rural states where ***FAR FEWER*** people lived a vetocratic superpower over the more populous states where more people lived. Think of this as a rural state hegemony. One way it showed up as an example was when "Dakota" was signed into law as two states, North AND South Dakota, on November 2, 1889. This new statem membership moment increase the Republican caucus count in the U.S. Senate to +4.
 
-This was at a time where the State of New York was considered the "Super State". At the time It had the financial capital of the young country (Wall Street) as well as the political capital of the young country.
+This was at a time where the State of New York was considered the "Super State". In 1787, it had the financial capital of the young country (Wall Street) as well as the political capital of the young country.
 
-I haven't found YET the records of a usable census and their counts for the year 1787. [Here's what I could find](https://www.census.gov/history/pdf/colonialbostonpops.pdf) based on the first published Census count from 1790:
+I haven't found YET the records of a usable census and their population counts for the year 1787. [Here's what I could find](https://www.census.gov/history/pdf/colonialbostonpops.pdf) based on the first published Census count from 1790:
 
 1. Virginia: 747,610
 2. Pennsylvania: 434,373
@@ -427,7 +427,116 @@ ONE: Vermont's town and village populations weren't even explictly counted or br
 
 TWO: These census takers didn't always play by the same uniform rules in terms of who counted and who didn't during the taking of the census pre-Constitution. Native Americans and slaves were counted or not counted arbitrarily. Basically, not everyone counted equally, which is very on-brand.
 
-THREE: Because of the 3/5th count of slaves collectively agreed on in 1787, it's POSSIBLE that the counts are off ANYWAY because of that one fact alone. Slave states wanted full **COUNTING** advantage during censuses, but the Framers collectively and explicitly agreed that women and slaves **SHOULD NOT GET** didn't representational proportionality at the decision table.
+THREE: Because of the 3/5th count of slaves collectively agreed on in 1787, it's POSSIBLE that the counts are off ANYWAY because of that one fact alone. Slave states wanted full **COUNTING** advantage during censuses, but the Framers collectively and explicitly agreed that women and slaves **SHOULD NOT GET** representational proportionality at the decision table. Ergo, it's quite possible that these counts are off.
 
+FOUR: The NORTH wanted the slave counts to be ZEROED out because they wanted the South to have as little representative power as possible. The South wanted the full count of slaves to appear in the census BUT they didn't want to ACTUALLY represent them or give them political power. Shady.
 
+This shows up in other ways, too, and will be covered in this and other essays. The core ideas
 
+## Oligarchs Today! Oligarchs Tomorrow! Oligarchs Forever!
+
+OK so if you think deeply about it for more than a few minutes, it's doubtful that any framers who participated in drawing up the Constitution were actually middle-class people. None were women, indigineous, or black. Why is that?
+
+If you had to WORK for a living, how could you afford to take the summer of 1787 ***OFF*** so that you could participate in re-architecting the national government of the country to something functionally stronger than the structure provided in the Articles of Confederation? You had to be participating REGULARLY in the central political conversations or connected to the White Dudes who WERE participating in those conversations. You also had to have enough financial resources to have a STAKE in how the country governed itself.
+
+In essence, you were an oligarch. And your buddies were oligarchs. And THIS is what you collectively thought:
+
+>The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests. *The protection of these faculties is the first object of government.* 
+
+(From the opening quote attributed to James Madison.)
+
+The core idea, the main idea, the ***first idea*** is to make sure that the government is consciously **architected and designed** to protect the rights of property owners. Thus spoketh James Madison, a future POTUS.
+
+Let's just be SUPER-CLEAR here: almost 50% of these White Dudes INHERITED their property: slaves and land and all that. "Not all Framers" sounds pretty damning.
+
+## Cultural Appropriation, Credit-Stealing and Inspiration-Negation
+
+Because they really did view themselves as having a kinder and gentler version of megalomania, they really thought EVERYTHING was theirs. Especially Pets and their work-product.
+
+As a result, the Framers and the White Dudes who followed them had ZERO problems with cultural appropriation. One of the progenitor acts of cultural appropriation was using some of the ideas of Native Americans' Constitutions. [The Constitution of the Iriquois Confederacy](https://sourcebooks.fordham.edu/MOD/iroquois.asp) is one such document.
+
+This would happen so often as to no longer be remarked on. Colonialism's practice of cultural theft was so widespread and so common as to become not even worth mentioning in the White version of American history. The most that happens in a number of American History textbooks is a paragraph or two mentioning the Trail of Tears and possibly a chapter section on the many battles between the U.S. Army and the various Native American nations as a part of the genocidal wars that had to be waged in order to fulfill on Manifest Destiny.
+
+No doubt Thomas Jefferson reflected and contributed to the contemporary views of the Framers toward the Indigineous:
+
+>[George III] has excited domestic insurrections amongst us, and has endeavored to bring on the inhabitants of our frontiers, **the merciless Indian savages** whose known rule of warfare, is an undistinguished destruction of all ages, sexes, and conditions.
+
+\-The Declaration of Independence, the 27th Grievance
+
+As usual, like many many things when it comes to the Framers, [it was about the money.](https://www.theatlantic.com/ideas/archive/2020/02/americas-twofold-original-sin/606163/) About 10 years before the Revolutionary War started, George Washington (among others colonial elites) engaged in land speculation. They were counting on the British Crown's edict that there would be no settlements west of Appalachia in order to honor a peace treaty between England and the native populations. Washington very much WANTED that land and he DIDN'T CARE how he was going to get access to it and convert his land use investment.
+
+I mention all this because there is VERY LITTLE about the Constution or the various "birth events" of America in its original form that had anything to do with patriotic idealism. It was about cheap labor and stealing lands through genocide. It's there in the fine print of the 27th Grievance: "insurrections" refer to any slaves who join the British military to collect on George III's promise to free any slaves who help put down the rebellion aka the American Revolution. It's also about declaring that the colonists were attempting to overthrow English rule in order to have purchase over all the lands west of Appalachia. 
+
+Why? For. The. Land. And. The. Money.
+
+This is a fundamental and almost utterly overlooked premise in almost all versions of American history taught at every level of the American education system: the oligarch framers of the Constitution (the ones with any real power, anyway) were interested in permanently concentrating economic and political power in their hands FOREVER no matter how much the country changed.
+
+"We the People" really only defined "People" to mean the Rich White Dudes in the room and their peers. In modern terms, "People-hood" means Rich White Dudes with a net worth of at least USD $100M. Why am I using a net worth that high? Because those kinds of people will automatically be granted all kinds of privileges, exceptions, exemptions, resources and societal benefits-of-the-doubt economically, socially and politically. Rich White Dudes are often granted press and a listening that "takes them seriously" in subject domains that are WAY WAY WAY outside of their lanes. They are often lobbed softball questions in interviews. They don't have to deal with the double standard of being labeled a "bitch" if they have ambition oract aggressively. If they want to take a chance to do something new, it's totally encouraged and celebrated.
+
+[White men represent over 93% of MANAGEMENT of Venture Capital dollars.](https://www.forbes.com/sites/elizabethedwards/2021/02/24/check-your-stats-the-lack-of-diversity-in-venture-capital-is-worse-than-it-looks/) Decision-makers are where the ACTUAL power to deploy capital actually lies. And VC money is nothing if not about decision-making. Who gets "green lit" to take a risk at-scale. What's wild is that two-thirds of the money that makes up the $40 TRILLION of Assets Under Management are coming from widows aka "the women-folk".
+
+Why is this important? Because whoever has the gold makes the rules. That's why it's called "the Golden Rule" and not some nonsense about "doing unto others" that a homeless dude from Nazareth who was white-washed to look like a Venice Beach bum spouted off on the side of some hill.
+
+# Founding Fathers and Their Mediocrity
+
+## Competition is For Losers
+
+Using an idea that would be pioneered hundreds of years in the future by Peter Thiel, ["competition is for losers"](https://youtu.be/3Fx5Q8xGU8k), the Framers thought to build-in massive lock-in for their perogatives in the architecture of the government and society. Why? **TO PROTECT THEIR PROPERTY FROM BEING TAKEN FROM THEM.**
+
+Never mind that they almost uniformly either inherited, married into, stole, or subjugated *said property*. This is an exploration of "Framer-washing", where the actual intentions are expressed through the political architecture of the American government.
+
+In this essay, and the others, we're exploring **EXACTLY HOW** the Framers locked in this "first mover" advantage while no one else could. And how they created a tension between the twin original sins of slavery and native genocide to build in a self-destruct mechanism where if the oligarchs and their descendents couldn't keep unfettered economic and political power forever, they would do their best to destroy the country and the planet rather than give up power.
+
+How?
+
+## Enshittification, Theology of Torpidity and Mass Shootings
+
+So every time there's a mass shooting, Republicans and their oligarchic sponsors do this ritual where they reflexively offer ["thoughts and prayers"](https://en.wikipedia.org/wiki/Thoughts_and_prayers) after a mass shooting event that gains significant press attention.
+
+America's [gun violence problem is **UNIQUE**](https://www.vox.com/23142734/kansas-city-superbowl-mass-shooting) in the developed world: every other country has vastly stricter gun control policies that dramatically limit the ability of its citizens to acquire firearms. And these laws have almost completely extinguished mass shootings in those countries.
+
+Because [the purpose of a system is what it does (POSWID)](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does), the National Rifle Association and its sympathetic Republican politicians have decided that its official policy is to make America unsafer by the day wherever Republicans can achieve control over the political or legal machinery.
+
+This policy of "unsafer by the day" is a process we've already referred to as [*enshittification*](https://pluralistic.net/2023/01/21/potemkin-ai/). That's the GOP platform and has been in one way or the other since 1981, when St. Ronald Reagan ascended to the White House.
+
+Its twin policy is the theology of torpidity. [Torpor)(https://www.urbandictionary.com/define.php?term=Torpor) is defined as "a state of physical or mental inactivity; lethargy." The answer that always comes from "thoughts and prayers" is to do **NOTHING**.
+
+This "theology of torpidity" reminds me of the prophets of Baal challenging the efficacy of Yahweh (the name of the Judeo-Christian God) to a ["barbeque-off" with Elijah](https://www.biblegateway.com/passage/?search=1+kings+18&version=NIV). Essentially, the 50 prophets of Baal attempted to summon the power of Baal to burn up the slaughtered bull on the altar from morning to noon (don't ask... just read the passage if you want the backstory). After failing, Elijah did a little drowning ritual to make sure his altar sacrifice would not *accidentally* catch fire, and then he prayed to Yahweh to "let it be known" that He was God and then fire came down immediately from heaven and destroyed the bull and the altar itself.
+
+The [opening of the Ark of the Covenant](https://youtu.be/N5jBa6RH11g?t=193) at the end of *Raiders of the Lost Ark* gets close to capturing the vibe of what it's like to call down fire from heaven.
+
+Never thought I'd say this, but it looks like evangelicals and Republicans are Baal-worshippers because of their theology of torpidity.
+
+## Environmental Apocalypse
+
+So there's a guy named Frank Luntz who coined the term "climate change" back in the 90s to help Republican politicians, lobbyists and policy-makers avoid sounding alarmist when describing "global warming".
+
+[It's something he regrets](https://grist.org/politics/the-gops-most-famous-messaging-strategist-calls-for-climate-action/), especially since his Los Angeles home has faced the ravages of climate crisis-induced wildfires.
+
+However, his meme contributes to the Theology of Torpidity. Republican politicians still attempt to hold the line on doing NOTHING or calling the climate crisis a hoax even as hundreds or thousands of species go extinct each day and the crisis makes the Southern hemisphere uninhabitable.
+
+A lot of left-leaning Americans are experiencing deaths of despair from climate anxiety.
+
+## The Opioid Epidemic
+
+A lot of what contributes to White deaths-of-despair is the opioid epidemic, which has claimed roughly 650,000 American lives since 1999. Because many of these opioid deaths happen in "Red states", Republican policians are willing to do more than just "think and pray" as they have sued Purdue Pharma into the ground.
+
+A lot of Americans in red states are experiencing deaths of despair from the opioid epidemic. And weirdly, it's the one thing that has pushed Republican Attorneys General to litigate the Sackler family sorta-kinda into the ground. Again, the lawyers for the oligarchic Sackler family have managed to only settle for the interest on their fortune, not the principal. So the "justice system" is working as designed: oligarchs get justice, and the pets get pennies on the dollar.
+
+## A Radical Idea
+
+By doing nothing, the GOP are causing the immigration crisis: [BIPOCs](https://en.wikipedia.org/wiki/Person_of_color#BIPOC) from the South are fleeing north to America in order to just be able to live. And Donald Trump sabotaged an immigration deal in the Senate back in the Spring of 2024 in order to campaign on an issue that he knew his base would believe whatever he said to them about it.
+
+And because immigrating BIPOCs are fleeing north to America, Whites are experiencing ["deaths of despair"](https://doi.org/10.1016/j.ssmph.2019.100449) because of the imminent [browning of America](https://www.vox.com/policy-and-politics/2018/7/30/17505406/trump-obama-race-politics-immigration).
+
+It would be WILD to make the racist case for solving the climate crisis by putting BIPOC climates-of-origin (and the planet) back on a path for sustainability. By doing this Republicans could entice BIPOC immigrants to return back to their homelands and take concrete measures to "keep America White". (Not advocating this as official policy... just thinking out loud...)
+
+Maybe White America would stop taking opioids if they knew brown people weren't invading America at the border?
+
+# Use and Betray, Use and Betray
+
+## J. Robert Oppenheimer
+
+In the academy-award winning film Oppenheimer, Christopher Nolan collaborated with Cillian Murphy to portray a patriotic Jewish physicist who had the intellectual and political chops to lead the ultimate physics team (sans Albert Einstein) in the desert of Los Alamos to develop and test the atomic bomb and usher in the nuclear age and the 20th century's most prominent threat of self-destruction by nuclear war. (Never mind that the man-made carbon emission trends were already underway to create global warming. This was kicked off by the first Industrial Revolution from 1800-1870.)
+
+After Oppenheimer's success, he was rejected by Truman as a voice at the table and later betrayed by Lewis Strauss (SUPRISE: a conservative Republican) when Strauss engineered the security hearing that stripped Oppenheimer of his security clearance.
