@@ -605,13 +605,13 @@ THAT. YOU. CORPORATE. EXECUTIVE. CAUSED.
 
 Thanks for forcing the birth of more children into a world no one wants to live in and experiences despair-inducing levels of inefficacy from. And if you're one of Elon Musk's 14 children, you could possibly be wondering why Dear Old Dad started off as a maybe-hero of the environmental movement with his mass popularization of electric vehicles and turned into the guy who is helping Donald Trump turbocharge the climate crisis?
 
-Or not.
+Or not, since self-reflection isn't usually a feature of the various Musk family structures.
 
-In any case, corporate execs funded a forced birth policy regime and then have turned around and blocked the goverment from putting in the bare minimum policy framework to make the ONE AND ONLY PLANET we all live on continuously hospitable.
+In any case, corporate execs funded a forced birth policy regime and then turned around and blocked the goverment from putting in the bare minimum policy framework to make the ONE AND ONLY PLANET we all live on continuously hospitable.
 
 For. Stock. Options.
 
 *Use and Betray. Use and Betray.*
 
-*Use and Betray. Use and Betray.*
+# Creating an Oligarchy pretending to be a Democracy
 
