@@ -257,7 +257,7 @@ In the mean time, the Continental Army's soldiers barely got paid once a year an
 
 Nope.
 
-[The efforts of Silas Deane and then Benjamin Franklin](https://en.wikipedia.org/wiki/France_in_the_American_Revolutionary_War#French_involvement) to convince the Kingdom of France to commit to supporting and then allying with the American war effort was the decisive political, economic and political factor that enabled the eventual military defeat of the British Army.
+[The efforts of Silas Deane and then Benjamin Franklin](https://en.wikipedia.org/wiki/France_in_the_American_Revolutionary_War#French_involvement) to convince the Kingdom of France to commit to supporting and then allying with the American war effort was the decisive political, economic and military factor that enabled the eventual military defeat of the British Army.
 
 Once the French Army showed up militarily and not just logistically, George Washington was functionally sidelined from the war effort. He even complained how little command action he was getting because the French had so thoroughly taken up the war effort to defeat the British. At some point the Spanish and the Dutch empires got involved as well, which is what enabled the liberation of the colonies from the British and the eventual Treaty of Paris and its various side treaties.
 
@@ -317,7 +317,7 @@ And as a BONUS, SCOTUS had 3 Justices appointed by Trump and 1 Justice appointed
 
 Conservatives like to scream about how "Big Government" is trampling their rights and that they shouldn't have to conform to any legislatively- or executive-mandated coercion.
 
-The oligarchs USE these people (almost always Evangelical Christians) as a way to get out of submitting to A LOT of regulation that is beneficial to the population as a mass group. Things like mass vaccinations during the first years of the COVID-19 crisis, or environmental regulations, or the current litigation around mifespristone, a drug that can medically induce abortions.
+The oligarchs USE these people (almost always White Evangelical Christians) as a way to get out of submitting to A LOT of regulation that is beneficial to the population as a mass group. Things like mass vaccinations during the first years of the COVID-19 crisis, or environmental regulations, or the current litigation around mifespristone, a drug that can medically induce abortions.
 
 And of course, everyone's favorite: gun control to prevent mass shootings. According to the Gun Violence Archive, [there were 656 mass shootings in 2023](https://www.gunviolencearchive.org/reports/mass-shooting?year=2023). We are BY FAR the most [armed-per-capita country on the planet](https://www.vox.com/23142734/kansas-city-superbowl-mass-shooting), and as a result we have the most gun violence, both fatal and non-fatal. We have approximately 120.5 guns per 100 residents. As a consequence of that level of gun armor, we also have 120 Americans die from some type of gun violence. And yet the "Good Guy with a Gun beats a Bad Guy with a Gun" narrative still captures the imagination of (mostly) conservative rural whites. Also, in the most recent famous mass shooting at the Kansas City parade celebrating the Super Bowl victory of the Kansas City Chiefs, there were [more than 850 police officers](https://www.kansascity.com/news/local/article285539852.html) present from both Kansas City police departments (both Kansas and Missouri), the Kansas State Police and the FBI.
 
@@ -379,11 +379,11 @@ Why? Because the addictive need to be right about my/your/our past keeps us in a
 3. I keep electing Republicans to represent ME at the state and federal levels and my Republican Party dominates the state legislature (because Democrats are the party of Bad Government and Republicans are the Party of NO government) because it makes me feel good to "stick it to those gay communist libruls in the Democrat Party"
 4. Go to Step 1
 
-However, BEHIND MY BACK, my Republican state and federal legislators pass laws to transfer tax money out of my state and into the hands of their corporate sponsors and donors. They also write laws and policies to create economically negative impact policies towards me and my community to keep me angry so that I'll keep feeling like a victim. And they'll blame Democrats for my problems even though I'm the one who voted for the Republicans who did this to me. And I'll believe the Republican politicians only because everyone around me agrees with them AND Fox News is reinforcing that I'm always going to be a victim of the Democrat Party.
+However, BEHIND MY BACK, my Republican state and federal legislators pass laws to transfer tax money out of my city, county and state and into the hands of their corporate sponsors and donors that fund ALEC. They also write laws and policies to create economically negative impact policies towards me and my community to keep me angry so that I'll keep feeling like a victim. And they'll blame Democrats for my problems even though I'm the one who voted for the Republicans who did this to me. And I'll believe the Republican politicians only because everyone around me agrees with them AND Fox News is reinforcing that I'm always going to be a victim of the Democrat Party.
 
 Alright, so I can still feel your eyes bleeding. Sorry. At this point you're going to have to work a little bit for that 4-step process or for the "BEHIND MY BACK" paragraph to make sense until the next revision of this essay.
 
-The bottom line: it's all about quietly creating *enshittification* for rural voters to keep them locked in to voting Republican and reinforcing support for the oligarchs. That's how hope and faith get twisted and co-opted. Because if "White Jesus" disapproves of that evil white man-hating Democrat party, and you vote against the Dems and vote for the Republicans, and things **GET WORSE**, then your **Victory in Jesus** becomes even more promised, because you can't NEVER EVER EVER admit that you made a mistake because if you're wrong, than the White Supremacist Christianity you practice might also have some problems, too.
+The bottom line: it's all about quietly creating *enshittification* for rural voters to keep them locked in to voting Republican and reinforcing support for the oligarchs. That's how hope and faith get twisted and co-opted. Because if "White Jesus" disapproves of that evil white man-hating Democrat party, and you vote against the Dems and vote for the Republicans, and things **GET WORSE**, then your **Victory in Jesus** becomes even more promised, because you can't NEVER EVER EVER admit that you made a mistake because if you're wrong, than the White Supremacist Christianity you practice might also have some problems, too. And because of the [Sunk Cost Fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy), you'd rather die, abuse / be abused by your spouse, abuse your children, take opioids to numb the pain, and listen to White Supremacist Preachers invite you to the alter for the 1,000th time to recommit to White Jesus then actually [giving up patriarchy](https://bellhooksbooks.com/product/the-will-to-change/), reclaiming your life force energy, and making different choices.
 
 ## The Metric System
 
@@ -481,7 +481,7 @@ Why is this important? Because whoever has the gold makes the rules. That's why 
 
 ## Competition is For Losers
 
-Using an idea that would be pioneered hundreds of years in the future by Peter Thiel, ["competition is for losers"](https://youtu.be/3Fx5Q8xGU8k), the Framers thought to build-in massive lock-in for their perogatives in the architecture of the government and society. Why? **TO PROTECT THEIR PROPERTY FROM BEING TAKEN FROM THEM.**
+Using an idea that would be pioneered hundreds of years in the future by Peter Thiel, ["competition is for losers"](https://youtu.be/3Fx5Q8xGU8k), the Framers thought to build-in massive lock-in for their preogatives in the architecture of the government and society. Why? **TO PROTECT THEIR PROPERTY FROM BEING TAKEN FROM THEM.**
 
 Never mind that they almost uniformly either inherited, married into, stole, or subjugated *said property*. This is an exploration of "Framer-washing", where the actual intentions are expressed through the political architecture of the American government.
 
@@ -539,4 +539,79 @@ Maybe White America would stop taking opioids if they knew brown people weren't 
 
 In the academy-award winning film Oppenheimer, Christopher Nolan collaborated with Cillian Murphy to portray a patriotic Jewish physicist who had the intellectual and political chops to lead the ultimate physics team (sans Albert Einstein) in the desert of Los Alamos to develop and test the atomic bomb and usher in the nuclear age and the 20th century's most prominent threat of self-destruction by nuclear war. (Never mind that the man-made carbon emission trends were already underway to create global warming. This was kicked off by the first Industrial Revolution from 1800-1870.)
 
-After Oppenheimer's success, he was rejected by Truman as a voice at the table and later betrayed by Lewis Strauss (SUPRISE: a conservative Republican) when Strauss engineered the security hearing that stripped Oppenheimer of his security clearance.
+After Oppenheimer's success, he was rejected by Truman as a voice at the table and later betrayed by Lewis Strauss (SUPRISE: a conservative Republican) when Strauss engineered the security hearing that stripped Oppenheimer of his security clearance one day before it was to expire. This action shredded his reputation and ended his career at the Atomic Energy Commission and his ability to "be in the room" and influence atomic weapons policy.
+
+The government used him to achieve its ends of winning the war. And it was conservatives who turned on Oppenheimer and betrayed him for standing in their way.
+
+*Use and Betray. Use and Betray.*
+
+## Black Military Veterans
+
+Black soldiers fought in World War 2 and contributed substantially to America winning that war. However, when they came home, they were subjected to:
+
+- Jim Crow laws
+- Enforced segregation
+- Redlining
+- Exclusion from GI Bill benefits
+- Continued enforcement of anti-miscegenation (interracial marriage) laws
+- Employment discrimination
+- Education discrimination (including white rebellion against Brown v. Board of Education)
+- Housing discrimination in the form of pricing, loan interest rates, loan approval rates, etc
+- Domestic terrorism
+
+I think you get the idea.
+
+Basically, the government drafted Black citizens, trained, armed and directed them into war, they DID THEIR FUCKING JOB and then the goverment turned around and said "Thanks now go back to your hole, darkie, and GO FUCK ALL THE WAY OFF."
+
+This is something that's still continuing with the banning of African-American authored books in Republican-controlled states, just as opening table stakes.
+
+*Use and Betray. Use and Betray.*
+
+## Women
+
+Do I even need to write this?
+
+I guess I do.
+
+There are literally THOUSANDS OF BOOKS about this issue. But since we're no longer (if we ever were) a nation of readers, I'm going to cite ONLY one book, [Holding it Together by Jessica Calarco](https://www.amazon.com/dp/0593538129). And one election.
+
+*Holding it Together* is a book about the vast amount of unpaid labor contributed by women because of America's shredded social safety net. It describes "a systematic agreement to dismantle our country's social safety net and persuade citizens to accept precarity while women bear the brunt. She leads us to see women's labor as the reason we've gone so long without the support systems that our peer nations take for granted, and how women’s work maintains the illusion that we don't need a net." (from the Publisher's own book summary).
+
+Kamala Harris, the 2024 Democratic Presidential nominee, actually performed caregiving for her mother as she was dying of breast cancer. So she knew better than most people where the policy gaps were in the social safety net.
+
+And we know how that election turned out. Because of patriarchy-manipulated fears of inflation (which was already coming down by Election Day) and a woman in the highest office in the land (because patriarchy is America's true religion), Americans (notably white women) voted to return Donald Trump to the White House and supercharge the shredding of the social safety net (along with almost everything else).
+
+In case it's still not clear: America uses women in lieu of a formal social safety net. Subsequently and concurrently, America betrays women.
+
+*Use and Betray. Use and Betray.*
+
+## Children and the Climate Crisis
+
+### (child population) Supply and (corporate economic growth) Demand
+
+[American capitalism needs population growth in order to fund economic growth.](https://jacobin.com/2022/08/capitalism-low-birth-rate-labor-abortion-contraceptives-childcare) If the birth rate falls, labor will eventually get more expensive because there will be fewer people available to hire.
+
+The problem isn't expensive labor. The problem is the ***perception*** that expensive labor leads to reduced population growth. As a result, many right-wing led American corporations are funding the Forced Birth movement in order to coerce higher domestic fertility rates.
+
+OK congratulations! You've now force-birthed A MILLION NEW BABIES.
+
+### But wait, there's more (or more of less)
+
+However, you've just caused women to push these babies out of the womb into a world that is dying from the climate crisis that YOU HAVE CAUSED. All in the name of stock option appreciation for Big Oil executives and other mass transit-reliant companies (I'm looking at you, Amazon).
+
+So... babies are born (often against the fully informed choice of the mother) into a world that is dying.
+
+THAT. YOU. CORPORATE. EXECUTIVE. CAUSED.
+
+Thanks for forcing the birth of more children into a world no one wants to live in and experiences despair-inducing levels of inefficacy from. And if you're one of Elon Musk's 14 children, you could possibly be wondering why Dear Old Dad started off as a maybe-hero of the environmental movement with his mass popularization of electric vehicles and turned into the guy who is helping Donald Trump turbocharge the climate crisis?
+
+Or not.
+
+In any case, corporate execs funded a forced birth policy regime and then have turned around and blocked the goverment from putting in the bare minimum policy framework to make the ONE AND ONLY PLANET we all live on continuously hospitable.
+
+For. Stock. Options.
+
+*Use and Betray. Use and Betray.*
+
+*Use and Betray. Use and Betray.*
+
