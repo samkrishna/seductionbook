@@ -605,9 +605,9 @@ THAT. YOU. CORPORATE. EXECUTIVE. CAUSED.
 
 Thanks for forcing the birth of more children into a world no one wants to live in and experiences despair-inducing levels of inefficacy from. And if you're one of Elon Musk's 14 children, you could possibly be wondering why Dear Old Dad started off as a maybe-hero of the environmental movement with his mass popularization of electric vehicles and turned into the guy who is helping Donald Trump turbocharge the climate crisis?
 
-Or not, since self-reflection isn't usually a feature of the various Musk family structures.
+Or not, since a lack of self-reflection is usually a feature and not a bug of the various Musk family members.
 
-In any case, corporate execs funded a forced birth policy regime and then turned around and blocked the goverment from putting in the bare minimum policy framework to make the ONE AND ONLY PLANET we all live on continuously hospitable.
+In any case, American corporate execs funded a forced birth policy regime and then turned around and blocked the goverment from putting in the bare minimum policy framework to make the ONE AND ONLY PLANET we all live on continuously hospitable.
 
 For. Stock. Options.
 
@@ -615,3 +615,54 @@ For. Stock. Options.
 
 # Creating an Oligarchy pretending to be a Democracy
 
+## Rampant Inequality
+
+Part of how this thing called "Amur-ica" keeps going is by creating a sleight-of-hand around the idea of "democracy". Something to keep in mind was that the Framers had ZERO interest in actually trusting "the people" with actual political power and they baked in as many obstacles as they could think of (in the name of compromise) in order to achieve that end.
+
+From the beginning, the political franchise was presuppositioned on some commitment of "the common good", which, if you're keeping score at home, is super-vague at best, and very corruptible at worst. This is where the concept of "fungible personhood" enters the chat. Here's why:
+
+According to [Charles Beard](https://people.tamu.edu/~b-wood/GovtEcon/Beard.pdf), there were no working class people represented at the Constitutional Convention ("the Convention"). So what was "common" was the financial elites who had the free time to study political economy at a sufficient level to participate.
+
+Think about this very deeply for a minute: almost all of us, to a fault, tend to gravitate to people of similar experiences or backgrounds because that's where we experience emotional and intellectual safety. The elites congregate with elites. The religious congregate with the religious. Labor congregates with labor. Artists congregate with artists. So... it's a consequence that "the common good" is going to be redefined based on the group in question, right? What is "the common good" for the artist is going to VASTLY DIFFER from "the common good" for the wealthy, right?
+
+Naturally, for the wealthy, "the common good" is going to mean "create a system of government that keeps capital and political power in our hands no matter how much the country changes." Period. Full stop. And, if it is true that "if you're not growing, you're dying", then creating and perpetuating a system where rampant inequality is the RULE and NOT THE EXCEPTION is the order of the day.
+
+Not just financially. Also along political, geographic, ethnic, and gender lines. Remember, POSIWID. And patriarchy.
+
+## Concentrating economic, political, and technological power
+
+So this essay has talked quite a bit about concentrating wealth and a little bit about political power. To recap:
+
+### Concentrating economic and political power
+
+It's the Golden Rule, baby! "He who has the gold makes the rules." And from a purely self-interested point-of-view, you're going to wrte the rules of the game to preserve your advantage and hamstring any attempts the structural inequities that keep you in your seat of political and economic power.
+
+### Now, let's talk about concentrating technological power
+
+The US Patent and Trademark Office (USPTO) is constitutionally mandated to provide intellectual property protection for all manners of physical and intellectual inventions, with a fixed lifespan for that protection. However, that lifespan keeps getting extended further and further out.
+
+This benefits the holders of the USPTO patents and copyrights because they are PROTECTED from competition and are given legal recourse to litigate any violaters of said protection. Again, rigging the rules to favor the already-winners.
+
+And the already-winners know that they can steal up-and-comers' IP and keep doing that stuff because all they'll be subject to is a fine at best or full renumeration at worst. They also prey upon the little guy's apprehension about filing lawsuits and engaging in litigation to protect what's theirs.
+
+I have no doubt an enterprising reader can research for the dark underbelly of patent protection. Now that we are in the age of Generative Artifificial Intelligence, very little protections are actually afforded to IP holders and creatives if they are not already a large company.
+
+Again, the race to create Artificial General Intelligence is to lock in permanent concentation of economic and political power. This is more of the same.
+
+## Communism! Socialism! Oh My!
+
+Starting with the 1950s, conservatives and aligned business interests started accusing left-wing groups (Democrats, liberals, academics, progressives, etc) with the epithet of "Communism!" and "Socialism!" in order to blunt the emotional resonance of political equality.
+
+Any time any kind of social progress proposed that threatens the entitled order of the political, financial, and corporate elites, some mixture of right-wing sourced epithets is deployed in order to keep the masses of White Voters in their slumber.
+
+This slumber keeps the status quo going and benefits the elites. By demonizing progressivism and liberalism, political conservatives in every era basically shut down any attempt at argument because the status quo benefits them at the expense of the working class.
+
+## Glorify the Past and The Framers
+
+Another way the elites keep the status quo going is by glorifying the past, the Framers and their place in the narrative order. This is done in order to keep the upper hand in the continuous narrative warfare of "Amur-ica" against the working class.
+
+## Competition is for Losers by Peter Thiel
+
+It's a not-exactly-obscure maxim that Thiel expounded upon for [his philosophy of startups](https://www.csun.edu/~vcact00f/497CapStone/Peter%20Thiel_%20Competition%20Is%20for%20Losers%20-%20WSJ.pdf). He believes that startups need to define a market problem that they can uniquely solve and race to capture monopoly status. Once they achieve functional monopoly status, they then need to defend that monopoly at all costs, including the cost of the truth by engaging in deceptive rhetoric to avoid public and regulatory scrutiny.
+
+By constructing an oligarchy-pretending-to-be-a-democracy, the Framers achieved Peter Thiel's vision, long before he was even born (you could make an argument that he got it from the Framers, but that's a different conversation).
