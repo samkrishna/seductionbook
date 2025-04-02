@@ -657,12 +657,104 @@ Any time any kind of social progress proposed that threatens the entitled order 
 
 This slumber keeps the status quo going and benefits the elites. By demonizing progressivism and liberalism, political conservatives in every era basically shut down any attempt at argument because the status quo benefits them at the expense of the working class.
 
-## Glorify the Past and The Framers
+## Narrative Warfare Tactic: Glorify the Past and The Framers
 
-Another way the elites keep the status quo going is by glorifying the past, the Framers and their place in the narrative order. This is done in order to keep the upper hand in the continuous narrative warfare of "Amur-ica" against the working class.
+Another way the elites keep the status quo going is by glorifying the past, the Framers and their place in the narrative order. This is done in order to keep the upper hand in the continuous narrative warfare of "Amur-ica" and its oligarchs against the middle and working classes.
+
+One way (as previously discussed) is the constant repetition of the error that the Americans won the American Revolution. Another is the perpetual celebration of "the Framers in their infinite wisdom" (insert gagging sound here). A third is the glossing over of the genocide of indigineous peoples ("Native Americans") on the way to the fulfilment of "Manifest Destiny". A fifth is allowing the Texas State Board of Education to set statewide standards and become a "bulk buyer" of texts. This incentivizes school textbook publishers to create "Texas-approved" textbooks that are then sold nationwide.
 
 ## Competition is for Losers by Peter Thiel
 
-It's a not-exactly-obscure maxim that Thiel expounded upon for [his philosophy of startups](https://www.csun.edu/~vcact00f/497CapStone/Peter%20Thiel_%20Competition%20Is%20for%20Losers%20-%20WSJ.pdf). He believes that startups need to define a market problem that they can uniquely solve and race to capture monopoly status. Once they achieve functional monopoly status, they then need to defend that monopoly at all costs, including the cost of the truth by engaging in deceptive rhetoric to avoid public and regulatory scrutiny.
+It's a not-exactly-obscure maxim that Thiel expounded upon for [his philosophy of startups](https://www.csun.edu/~vcact00f/497CapStone/Peter%20Thiel_%20Competition%20Is%20for%20Losers%20-%20WSJ.pdf). He believes that startups need to define a market problem that they can uniquely solve and race to capture monopoly status. Once they achieve functional monopoly status, they then need to defend that monopoly at all costs, including the cost of the truth by engaging in deceptive rhetoric to avoid public and regulatory scrutiny. All the while capturing monopoly profits while they enjoy monopoly.
 
 By constructing an oligarchy-pretending-to-be-a-democracy, the Framers achieved Peter Thiel's vision, long before he was even born (you could make an argument that he got it from the Framers, but that's a different conversation).
+
+The core idea behind the Constitution is to guarantee oligarchy-as-democracy no matter who's on the ballot for whatever level of goverment. Part of how that was accomplished is by creating a permanent vetocracy.
+
+# Cancel the Future: Vetocracy through the Six Corruptions
+
+There are six basic corruptions embedded in the Constitution.
+
+## Fungible Personhood
+
+Starting with the 3/5th Compromise, the Framers created a precedent to empower the goverment to define personhood for entire demographics. Also, it made a mockery of the opening line "We the People" by defining down who gets to be a person and who gets political agency.
+
+For the purposes of housekeeping, the 3/5th compromise has no "winners" who look good. The North wanted to ZERO OUT all the slaves from the Census (effectively not count them) in order to maintain its political power. The South wanted to get a FULL COUNT of its slaves, without any responsibilities to their freedom, education, or political agency.
+
+The Framer-Oligarchs also decided that adult women were shut out of the franchise. It's not until the 19th Amendment that white women got the franchise to vote, but much of that movement was predicated on allowing women to politically participate in American White Supremacy.
+
+Of course, the Indigeneous were shut out of the franchise. So were children. And immigrants. One of the curious and often-forgotten facts of White Supremacy in America was that Irish, Polish, and other European non-WASP-y immigrants were treated as sub-human when they arrived here. One of the controversies surrounding Senator John F. Kennedy's run for the Presidency in 1960 was his Irish background, along with his Catholic background. Even after JFK's win the Irish people were still not considered "white".
+
+The book [Caste](https://www.amazon.com/dp/0593230272) details quite a bit of this issue from different angles when it comes to the made-up notion of "race". We also see this play out in women's health care with the "Fetal Personhood" movement seeking to elevate the "personhood" of the fetus at the expense of the personhood of the impregnated mother (who is relegated to ["fetal host" status](https://www.snopes.com/fact-check/oklahoma-host-woman-humphrey/)). You can see both ["The Handmaid's Tale" TV series](https://youtu.be/dVLiDETfx1c) or the ["Zurawski v. Texas" documentary](https://www.zurawskivtexas.com) for what it looks like to have fungible personhood for women.
+
+And of course, American children are considered property today. That's why there are "custody fights" when two married parents get a divorce. They are fighting for "custody" of their joint property. Just think about that one. For a long time.
+
+And somehow, magically, children "stop" being property when they reach the 18th year in America and then they become adults. No more fights about their personhood status... oh wait.
+
+## The United States Senate
+
+The Senate was proposed by the small states to avoid being overrun by the larger population states when it came to "proportional representation". Benjamin Franklin brokered this bicameral compromise. As a result, we now live in a "rural state hegemony" where the average rural state voter has roughly 4x the voting power of an urban state voter.
+
+Because the Senate has this weird procedural blocking tool called "the filibuster" along with "unanimous consent" and a weird slavish devotion to Robert's Rules of Order, any Senator can grind the Senate to a halt on ANYTHING: the confirmation of cabinet members and other presidential appointees, laws, treaty ratifications, committee investigations, whatever. Weirdly, the Filibuster is riddled with "exception loopholes" for various things the majority wanted to get done over the obstruction of the minority. On a side note: Alexander Hamilton warned against the filibuster being a democracy-breaking tool.
+
+The fact that every single law has to be passed THREE TIMES is crazy-making by itself: once in the House of Representatives, once in the Senate, and finally after reconciliation.
+
+All good ideas go to die in the Senate. The whole point of the Senate was to be a "cooling saucer" for hot tea, an idea endorsed by both George Washington and James Madison, our 1st and 4th POTUSes and slaveholders.
+
+Between the 6-year terms preventing immediate accountability for strongly-disfavored action and the impermanence of political memory in modern American voting populations (see the damage social media is doing to you, dear voter), the Senate is basically immune to the will of the people. It usually takes 90% agreement by the non-oligarchic population before anything is attempted legislatively, much less done.
+
+## The Electoral College
+
+How do you know an idea is an extraordinarily bad idea? When no one copies it after you've implemented it.
+
+The only good thing about the Electoral College is its resilience to resisting change. There's been over 700 attempts to fixing the Electoral College, and they have all failed.
+
+The Electoral College serves as another reinforcement for rural state hegemony. During the 2024 campaign, over 95% of campaign stops by the 4 principal candidates were made just to seven swing states:
+
+- Arizona
+- Georgia
+- Michigan
+- Nevada
+- North Carolina
+- Pennsylvania
+- Wisconsin
+
+Originally, the EC was intended to be assigned proportional representation (meaning whoever won a congressional district's plurality vote count won a single EV from the state). However, our guy Thomas Jefferson's own political party (The Democratic-Republicans) changed Virginia's allocation from a district-level winner system to a winner-take-all system in order to secure a decisive advantage against John Adams before the election of 1800.
+
+So yeah, it's a shady system that regularly causes problems and creates more flyover states than even so-called coastal elitest states.
+
+## Lifetime Appointments of Federal Judges
+
+Back when the average life expectancy of men was around the 50-something years old, the typical federal judge tenure was somewhere between 10-15 years.
+
+As of right now, Clarence Thomas has served on the Supreme Court for 34 years. The longest tenure is William O. Douglas, who held the record at 36+ years.
+
+If any attempts to extend the human lifespan beyond its current average range of American women of 80 years and 75-ish years for American men to another 25 years, it's possible that Clarence Thomas could make a run for a 50- or 60-year tenure, as well as other appointees.
+
+Given the Republican propensity to nominate judicial teenagers (federal judges who have little to no experience on the federal bench and who are in their 40s or early 50s at the oldest), the whole point is to have the SCOTUS be a captured branch of goverment immune to elections or turnover.
+
+## Legislatures Drawing their Own Districts
+
+Every 10 years, there's a census. The decennial census updates the count of citizens in a given state and where they are located. The state legislature is then mandated constutitionally to update its legislative maps to reflect the current population. As a result, the new maps allow for political realigment.
+
+Haha ... you really think that happens? After the 2010 elections and [Project REDMAP](https://en.wikipedia.org/wiki/REDMAP), the Republicans locked in excessively gerrymandered legislative districts at the state and federal level. There's been complaints since the beginning of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) (which was named after Massachusetts governor Elbridge Gerry).
+
+The core corruption is that the legislature basically sets the rules of elections AND each member competes in the election. What could POSSIBLY go wrong?
+
+If this is still not obvious, think about it from the point-of-view of a sports league. Imagine the Philadelphia Eagles (who have just won the Super Bowl in 2025) setting the rules for ALL competitions, all sponsorships, all drafts, all trades, and everything else related economically to the playing of professional football. They also get to set the rules for ALL the other teams. AND they get to set the rules for all TV coverage, all swag wear, all concessions, etc.
+
+Is it starting to make sense? Why would ANY OTHER TEAM even bother playing knowing the rules are so thoroughly rigged? The fact that legislatures can draw their own districts AND make laws is just crazy. Even with redistricting commisions, the commisions are structured according to rules ***set by the legislature.***
+
+Is the problem now obvious enough?
+
+[The Political Thicket](https://podcasts.apple.com/us/podcast/the-political-thicket/id1117202653?i=1000370437214) from the "More Perfect" podcast talks about this issue in the "Baker v. Carr" case and how there was really NO clean way to force a state legislature to re-draw its political maps without causing problems. And we are still living with those problems today. It's both a political problem, a census problem, and a separation of powers problem. And it's our problem. And a hot mess.
+
+## Supermajority Threshold for Amendment Codification
+
+Lastly, there's a supermajority threshold for amending the Constution. Basically, you have to get a 2/3rd majority vote out of either (a) both houses of Congress or (b) state legislatures to propose an amendment. Then you have to ratify the amendment by having 3/5th of state legislatures approve the amendment.
+
+This supermajority threshold ignores a functional fact: all you need is a majority opinion from the Supreme Court to declare if something is constitutional or not. That's it.
+
+To legally overturn a controversial SCOTUS opinion will almost always takes DECADES going through the amendment process. If the SCOTUS opinion is corrupt, it will almost certainly stand for a very long time. Some decisions stand for centuries and are never functionally repealed.
+
+These six corruptions are how the Past cancels the Future.
