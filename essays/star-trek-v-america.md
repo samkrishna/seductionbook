@@ -768,3 +768,27 @@ These six corruptions are how the Past cancels the Future.
 The fact that the 13th Amendment has a loophole for prison labor being a legal form of slavery should tell you that ultimately, the South won the Civil War both in terms of discourse and in the transformation away from the Southern Plantation as a kind of beautified "prison labor camp" to actual prisons being a more honest form of a "prison labor camp".
 
 Just the fact that there's continued success in the "plantation wedding" industry where former slave labor camps are used as destination wedding sites should tell you A LOT about the fact that the South narratively won the Civil War.
+
+## The French military won the American Revolution
+
+The American Revolution (le sigh). So much mythology to strip away. The biggest myth is that the Americans ***militarily won*** the war with a minor assist from the French.
+
+Not. True.
+
+The Continental Congress could *barely* afford to pay its soldiers in the Continental Army during the run-up to the French intervention (shout-out to Silas Deane and Ben Franklin). Some years they could only pay a meager annual salary and some years they couldn't even do that. That's why the Continental Congress issued promissory notes to the soldiers that eventually became part of the controversy over the National Debt (made famous by Hamilton's [Cabinet Battle #1](https://youtu.be/eYE023CrMo4)).
+
+So ... think about it like this: HOW could the Americans ***afford*** to fight and win the American Revolution against the world's greatest military force (the British Army and Naval Armada), especially when:
+
+- They were continuously having to contend with Loyalists who didn't want to leave the British Empire?
+- They couldn't afford to do any kind of fighting beyond guerilla warfare
+- They didn't have the type of unified support that the North Vietnamese enjoyed in repelling not one, but two colonial incursions (both the French and the American Empires)
+- They didn't have a stable tax base to draw resources from
+- They didn't have an organized navy
+
+In war, the better-resourced adversary will always win. This isn't just about money (although that matters A LOT). It also matters in terms of who has popular support on its side, too. Home field advantage matters A LOT. And since the American Revolution was [yet-another world war](https://www.amazon.com/dp/1588346331), the Spanish and the Dutch empires got involved as well in taking down the British Empires a peg.
+
+Just as a final note to this story: after [Ben Franklin's successful diplomatic mission to convince the French to join the Americans](https://youtu.be/YPG4I2jPSRE), George Washington complained in various letters that he had been all-but-sidelined from his own war effort. This complaint is also from the same guy who had to borrow £500 pounds to get to his own first inauguration in 1789 (almost USD$87,000 in 2025).
+
+The (usually broke) Father of our Country couldn't afford to fight his way out of a paper bag. He was literally the luckiest of soldiers.
+
+But because Americas schools of all stripes don't teach actual history, or even the basics of how to "follow the money", every school child is miseducated on exactly who won the American Revolution, and how.
