@@ -735,15 +735,15 @@ Given the Republican propensity to nominate judicial teenagers (federal judges w
 
 ## Legislatures Drawing their Own Districts
 
-Every 10 years, there's a census. The decennial census updates the count of citizens in a given state and where they are located. The state legislature is then mandated constutitionally to update its legislative maps to reflect the current population. As a result, the new maps allow for political realigment.
+Every 10 years, there's a census. The decennial census updates the count of citizens in a given state and where they are located. The state legislature is then constitutionally mandated to update its legislative district maps to reflect the current population. As a result, the new maps allow for political realigment.
 
 Haha ... you really think that happens? After the 2010 elections and [Project REDMAP](https://en.wikipedia.org/wiki/REDMAP), the Republicans locked in excessively gerrymandered legislative districts at the state and federal level. There's been complaints since the beginning of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) (which was named after Massachusetts governor Elbridge Gerry).
 
 The core corruption is that the legislature basically sets the rules of elections AND each member competes in the election. What could POSSIBLY go wrong?
 
-If this is still not obvious, think about it from the point-of-view of a sports league. Imagine the Philadelphia Eagles (who have just won the Super Bowl in 2025) setting the rules for ALL competitions, all sponsorships, all drafts, all trades, and everything else related economically to the playing of professional football. They also get to set the rules for ALL the other teams. AND they get to set the rules for all TV coverage, all swag wear, all concessions, etc.
+If this is still not obvious, think about it from the point-of-view of a sports league. Imagine the Philadelphia Eagles (who have just won the Super Bowl in 2025) setting the rules for ALL competitions, all sponsorships, all drafts, all trades, and everything else related economically to the playing of professional football. They also get to set the rules for ALL the other teams. AND they get to set the rules for all TV coverage, all swag wear, all concessions, etc. And they get to do this FOR THE NEXT TEN YEARS.
 
-Is it starting to make sense? Why would ANY OTHER TEAM even bother playing knowing the rules are so thoroughly rigged? The fact that legislatures can draw their own districts AND make laws is just crazy. Even with redistricting commisions, the commisions are structured according to rules ***set by the legislature.***
+Is this starting to make sense? Why would ANY OTHER TEAM even bother playing knowing the rules are so thoroughly rigged? The fact that legislatures can draw their own districts AND make laws is just crazy. Even with redistricting commisions, the commisions are structured according to rules ***set by the legislature.***
 
 Is the problem now obvious enough?
 
