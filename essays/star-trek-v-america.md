@@ -729,9 +729,9 @@ Back when the average life expectancy of men was around the 50-something years o
 
 As of right now, Clarence Thomas has served on the Supreme Court for 34 years. The longest tenure is William O. Douglas, who held the record at 36+ years.
 
-If any attempts to extend the human lifespan beyond its current average range of American women of 80 years and 75-ish years for American men to another 25 years, it's possible that Clarence Thomas could make a run for a 50- or 60-year tenure, as well as other appointees.
+If the current attempts to extend the human lifespan beyond its current average range succeed, it's possible that a future Clarence Thomas could make a run for a 50- or 60-year tenure, as well as other appointees.
 
-Given the Republican propensity to nominate judicial teenagers (federal judges who have little to no experience on the federal bench and who are in their 40s or early 50s at the oldest), the whole point is to have the SCOTUS be a captured branch of goverment immune to elections or turnover.
+Given the Republican propensity to nominate judicial teenagers (federal judges who have little to no experience on the federal bench and who are in their 30s or 40s or early 50s at the oldest), the whole point is to have the SCOTUS be a captured branch of goverment immune to elections or turnover.
 
 ## Legislatures Drawing their Own Districts
 
