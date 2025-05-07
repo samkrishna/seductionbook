@@ -832,3 +832,32 @@ Just like Vietnam.
 Isabel Wilkerson discovered in her research for [Caste](https://www.amazon.com/dp/0593230272) that the Nazis drew tremendous inspiration for their march to the Holocaust from the American South. Interestingly, *even they* recoiled at the idea of disqualifying an Aryan from "Aryan status" if they had even a single drop of Jewish blood. This was in response to the "single drop" rule that permeated Southern laws and institutions and handicapped mixed race descendants from experiencing racial parity with their white parents.
 
 I'm going to rephase that idea so it sinks in: even the ***Nazis*** thought the American South ***went too far*** when it came to racial purity in their miscegenation laws.
+
+## The Civil War wasn't waged for the reasons you think
+
+There's a metric ton of "kicking up dust" around the reasons for the cause of the Civil War. But before we get into that, let's consider the reason for "incentives" and why there are a lot of incentives around "forgetting / ignoring the past".
+
+### Definition of "incentive"
+
+Incentive - (1) A thing or policy to encourage one to do something; (2) a payment or concession to stimulate greater output or investment.
+
+Why are we even going here? Everyone *knows* the definition of incentive, right? That may be true, but very few public histories of any topic actually delve into the *economic incentives* behind any kind of historical event.
+
+Consider, gentle reader, that almost every history you've EVER read is structurally incomplete and leaves you woefully under-informed. Think of it as being asked to cross a bridge from "The Present" to "The Past" and yet that bridge has ZERO structural support from the base or ground to the structure of the bridge span.
+
+![How American History is actually taught.](https://lh5.googleusercontent.com/proxy/ilOgxaqXocxWh-D-hhpffLv3HeBOA1auzBfU3tzFfilGC1WXWzOfz5L5apM-VU9tX0-ZarybQhoOc-zqnnQpfc2M0aBaEBsx2wYkczpHKwkaFgjpE5G5ys9TzR0DFFvVJidGuiPSztAYUhYamdrzp6JX1UQrRQTYQb3DGexSXvgyuq2NZL4LKVyy9tOIgaJ9jLzOVeY3hNYWD21G1J-GXawj1-pb7r8jX9XokfvFUyB9sqc7ys0uzSlWy2dkemijOuJGAWxel2qmTuYbmg48jDfsyW0dJa8olNee8RKXE1MXnppEIFUpBHDqx3Z6hJZfOEukLLsiC8FIfKiJIPNWhyMk1LgYhDAYx8gmkY0UJJQbnBUDGrGMfZH1EtZy=w1200-h630-p-k-no-nu "This is how most history is structurally taught in American schools at almost every level and in almost every school.")
+
+Even though we've all heard "Follow the money" to understand how almost all crimes are motivated, we don't follow that maxim when it comes to understanding history. Take, for example, everyone's favorite whipping boy, British Colonialism. British historians were recruited by the British government to keep propping up domestic support for Colonialism by publishing histories of the UK's civilizing and "doing this for their own good" colonial ambitions.
+
+Bullshit.
+
+It was ALWAYS about the money and the resources. As just one example, the British *stole* the equivalent of $45 TRILLION dollars in labor and resources from India during its 190-year rule of India (both as the British East India Company and later as part of the Empire). During this time, many many historians were enlisted by the British Government to write books and engage in public dialogues about why the British Empire STEALING from India was a good thing. (If you want to read more on this issue, read "Time's Monster" by Priya Satya.)
+
+Why? Here's the basic outline:
+
+1. Capitalist power wants resources it doesn't have
+2. Capitalist power takes (likely shady) actions to acquire said resources
+3. Capitalist power needs to maintain popular support to be viable
+4. Capitalist power engages in long-running propaganda to manufacture consent in order to maintain its legitimacy
+
+Just be with this outline and consider all the histories you think you know that don't have an economic backstory. That's a deliberate choice on the part of our government(s). It's not a conspiracy. It's a negative-space policy.
