@@ -758,3 +758,13 @@ This supermajority threshold ignores a functional fact: all you need is a majori
 To legally overturn a controversial SCOTUS opinion will almost always takes DECADES going through the amendment process. If the SCOTUS opinion is corrupt, it will almost certainly stand for a very long time. Some decisions stand for centuries and are never functionally repealed.
 
 These six corruptions are how the Past cancels the Future.
+
+# Always lying and concealing history
+
+## The South Won the Civil War
+
+[American Patriarchy](https://www.amazon.com/dp/0743456084) pervades every single sentence of the American Constitution. It it the core organizing principle. If you don't believe me, just go back to the opening quote from James Madison at the top of the essay and understand that EVERYONE who wasn't in Constitution Hall in Philadelphia during the Summer of 1787 was considered property of the oligarchs, whether they were formally enslaved in the South, wage-enslaved in the North, or child-enslaved as "women and children".
+
+The fact that the 13th Amendment has a loophole for prison labor being a legal form of slavery should tell you that ultimately, the South won the Civil War both in terms of discourse and in the transformation away from the Southern Plantation as a kind of beautified "prison labor camp" to actual prisons being a more honest form of a "prison labor camp".
+
+Just the fact that there's continued success in the "plantation wedding" industry where former slave labor camps are used as destination wedding sites should tell you A LOT about the fact that the South narratively won the Civil War.
