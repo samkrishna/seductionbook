@@ -792,3 +792,37 @@ Just as a final note to this story: after [Ben Franklin's successful diplomatic 
 The (usually broke) Father of our Country couldn't afford to fight his way out of a paper bag. He was literally the luckiest of soldiers.
 
 But because Americas schools of all stripes don't teach actual history, or even the basics of how to "follow the money", every school child is miseducated on exactly who won the American Revolution, and how.
+
+## Lying about Vietnam and Iraq
+
+When it comes to the use of American hard power versus soft power, there's almost always going to be an ethical problem in the initiation of hard power, especially in wars of choice (meaning America is the one launching the first attack).
+
+### Vietnam
+
+So the typical ["casus belli" (cause of war)](https://en.wikipedia.org/wiki/Casus_belli) narrative is that the Johnson Administration claimed [there were TWO attacks on the USS Maddox](https://allthatsinteresting.com/gulf-of-tonkin). The 2nd attack was falsely hyped up as the *casus belli* that suckered Congress into declaring war on North Vietnam and Americans going to war with the North Vietnamese for 10 years, 8 months, and 23 days (August 7, 1964 to April 30, 1975). 
+
+Here's the problem: the French had convinced the U.S. to pick up the tab of defending its colonialism efforts in Vietnam, with both treasure and blood. Under the threat of Communism, the French successfully enlisted multiple American governments as a part of our [Containment](https://en.wikipedia.org/wiki/Containment) strategy for dealing with the expansion of Communism by way of the [Warsaw Pact](https://en.wikipedia.org/wiki/Warsaw_Pact) and China's political adoption of Communism as well as North Korea (it didn't help our bullshit detector that North Korea had fought the US to a standstill and we are [STILL living under the terms of an armistice agreement](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement)).
+
+Because goverments can't admit they were suckered (especially the American goverment), we escalated to the point of 58,281 American troop deaths and the Vietnamese experienced up to 2-3 million casualties (both military and civilian). It's likely that another 50K-70K Laotians and between 40K-150K Cambodians were killed due to extra-territorial strikes by American bombing campaigns.
+
+Again, this was because the French suckered us into defending its colonial efforts under the guise of "Containment". And then Presidents Eisenhower, Kennedy, and Johnson quietly escalated to the point of open war and then Presidents Nixon and Ford kept it going until the US could no longer hold Saigon and were literally run out of town.
+
+Why? Because there are few worse ideas that capture the imagination then colonialism and empire. And that terrible idea is built on a falsehood that your country's resources and people belong to our country's leadership (both political and economic).
+
+### Iraq
+
+For the sake of this essay, I'll go ahead and grant that the first Gulf War in 1991 was justified. It's the second one I want to focus on.
+
+***Before*** the 9/11 attacks that leveled the World Trade Center in New York City and demolished part of the Pentagon as well as crashed Flight 93 in Shanksville, PA, the Bush Administration began war planning against Iraq as far back as January, 2001 shortly after George W. Bush took office.
+
+Bush was just going in a turbo-charged direction that Bill Clinton had established with the [1998 Iraq Liberation Act](https://en.wikipedia.org/wiki/Iraq_Liberation_Act). (I can almost hear the Republicans reading this part of the essay blaming Bill Clinton for something W. actually did.)
+
+After the 9/11 attacks, the Bush Administration manufactured some flimsy evidence around Iraq's attempts to procure materials for the manufacturing of Weapons of Mass Destruction and also insinuated that Iraq was connected to Al-Qaeda in the 9/11 attacks. Andrew Card pretty much indirectly admitted to a planned marketing-for-war campaign when he said ["you don't introduce new products in August"](https://www.democracynow.org/2002/9/9/headlines/card_from_a_marketing_point_of_view_you_dont_introduce_new_products_in_august).
+
+The evidence was super-flimsy and yet the American people bought it again because of the effectiveness of fear-mongering that the Bush 43 Administration deployed in the wake of 9/11.
+
+Several months after major combat operations ceased, [Bush admitted that Saddam Hussein had nothing to do with 9/11](https://www.rferl.org/a/1104385.html). So basically the argument was something like "9/11 + WMD = Invade Iraq!" (or something like that).
+
+It's now a given that the pretext for invading Iraq was based on a lie.
+
+Just like Vietnam.
