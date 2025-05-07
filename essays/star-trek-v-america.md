@@ -826,3 +826,9 @@ Several months after major combat operations ceased, [Bush admitted that Saddam 
 It's now a given that the pretext for invading Iraq was based on a lie.
 
 Just like Vietnam.
+
+## The American South inspired the Nazis
+
+Isabel Wilkerson discovered in her research for [Caste](https://www.amazon.com/dp/0593230272) that the Nazis drew tremendous inspiration for their march to the Holocaust from the American South. Interestingly, *even they* recoiled at the idea of disqualifying an Aryan from "Aryan status" if they had even a single drop of Jewish blood. This was in response to the "single drop" rule that permeated Southern laws and institutions and handicapped mixed race descendants from experiencing racial parity with their white parents.
+
+I'm going to rephase that idea so it sinks in: even the ***Nazis*** thought the American South ***went too far*** when it came to racial purity in their miscegenation laws.
