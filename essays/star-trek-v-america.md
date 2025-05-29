@@ -858,7 +858,7 @@ British colonialism was ALWAYS about the money and the resources. As just one ex
 Why? Here's the basic outline:
 
 1. Capitalist power wants resources it doesn't have
-2. Capitalist power takes (likely shady) actions to acquire said resources
+2. Capitalist power takes shady actions to acquire said resources
 3. Capitalist power needs to maintain popular support to be viable
 4. Capitalist power engages in long-running propaganda to manufacture consent in order to maintain its legitimacy
 
