@@ -863,3 +863,45 @@ Why? Here's the basic outline:
 4. Capitalist power engages in long-running propaganda to manufacture consent in order to maintain its legitimacy
 
 Just be with this outline and consider all the histories you think you know that don't have an economic backstory. That's a deliberate choice on the part of our government(s). It's not a conspiracy. It's a negative-space policy.
+
+### A Note Before Returning to the Reasons for the Civil War
+
+Before I get into this, I'd just like to say at this juncture that there's a pattern that seems to happen with some histories that attempt to tell a different narrative as a break from the "conventional wisdom" narrative of a major event or persona.
+
+That pattern is the phenoma of the new narrative being attacked by so-called gatekeepers of the conventional narrative. Think of it as an attempt of *the Past* trying to cancel *the Future*. Usually this takes place in the form of attacking the entire forest (the larger super-point of the new narrative) by hacking away at the trees (attacking certain details as *wrong* or "factually incorrect" from a certain point-of-view).
+
+With any luck, this phenonena will happen with this narrative.
+
+## Back to the Real Reasons for the Civil War
+
+There's so much to cover here. I'll do my best to use a "Follow the Money" approach as much as possible, but don't be suprised when this gets revised as my understanding and conception of the new narrative gets sharpened. Much of this new narrative is contextualized and summarized from ["The Half Has Never Been Told" by Edward E. Baptist](https://www.amazon.com/dp/0465049664).
+
+Starting with an organizing premise that slavery was central to American economic development, [it starts to get a bit crazy](https://bradleyahansen.blogspot.com/2018/06/was-slavery-central-to-american.html). There's a "Golden Rule" in politics which is simplest to understand as "He who has the (most) gold makes the rules." That doesn't always hold up every single time, but it's a useful heuristic to understand how this model of American capitalism and American patriarchy works.
+
+Another way of thinking about American slavery is as a form of socioeconomic addiction where "Southern culture" is the addictive behavior and slavery is the drug. Maybe it's true that slavery was economically not-that-large in terms of GDP, but it IS TRUE that Southern political philosophy and behavior as practiced then (and now) is organized around suppressing the political and economic mobility of African-Americans for the political and economic mobility of European Americans.
+
+### The North Colluded with the South
+
+There are no "Good Guys" and "Bad Guys" in the story of pre-Civil War slavery. Every side looks bad because the the Original Sin of slavery morally impacted EVERYONE.
+
+### The 3/5th Compromise
+
+The South wanted to FULLY COUNT its entire slave population but strip them forver of the right to political agency. The North wanted to ZERO the slave population out. And after a ton of argument, the 3/5th Compromise is born.
+
+### Northern financial interests invested in slavery
+
+Banks in New York and other northern cities provided financing for plantation expansion. Also, northern textile mills depended on Southern cotton. Many of these loans were *secured* by using slave bodies as *collateral*.
+
+### Tensions over western expansion
+
+The Kansas-Nebrask Act and the Missouri Compromise were fundamentally about the economic expansion of the slave system because of competition between the free and slave labor systems in Western territories.
+
+As one example, the "Free Soil" movement was ultimately about guarateeing economic opportunity for white men. Remember: white women were relegated to the home and shut out of most economic opportunities. That's where the conflict was centered: white men having access to economic opportunities in the territorial expansions of the United States under the guise of "Manifest Destiny".
+
+(Yes, for now we are going to ignore how the Western lands were stolen from the Native American populations through some mixture of genocide and corrupt land dealings between the United States and the various indigenous nations.)
+
+The need for more and more cotton kept exhausting the land, giving an economic impetus for Southern expansion into slave territories, thereby shutting out Free Men (remember, the only "men" that counted were white men).
+
+
+
+
