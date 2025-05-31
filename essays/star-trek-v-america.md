@@ -896,12 +896,26 @@ Banks in New York and other northern cities provided financing for plantation ex
 
 The Kansas-Nebrask Act and the Missouri Compromise were fundamentally about the economic expansion of the slave system because of competition between the free and slave labor systems in Western territories.
 
-As one example, the "Free Soil" movement was ultimately about guarateeing economic opportunity for white men. Remember: white women were relegated to the home and shut out of most economic opportunities. That's where the conflict was centered: white men having access to economic opportunities in the territorial expansions of the United States under the guise of "Manifest Destiny".
+As one example, the "Free Soil" movement was ultimately about guarateeing economic opportunity for white men. Remember: white women were relegated to the home and shut out of most economic opportunities. (White women, I hate to break it to you, but you've always been considered 2nd-class citizens even in the North.) That's where the conflict was centered: white men having access to economic opportunities in the territorial expansions of the United States under the guise of "Manifest Destiny".
 
 (Yes, for now we are going to ignore how the Western lands were stolen from the Native American populations through some mixture of genocide and corrupt land dealings between the United States and the various indigenous nations.)
 
-The need for more and more cotton kept exhausting the land, giving an economic impetus for Southern expansion into slave territories, thereby shutting out Free Men (remember, the only "men" that counted were white men).
+The need for more and more cotton kept exhausting the land, giving an economic impetus for Southern expansion into slave territories, thereby shutting out Free Men and their labor (remember, the only "men" that counted were white men).
 
+### Gonna have to start a whole other essay here
 
+As it turns out, there are THREE books that go into this issue at a NOT-superficial bullshit-depth:
+
+1. "The Half Has Never Been Told" by Edward E. Baptist (2014)
+2. "Clashes of Extremes" by Marc Egnal (2010)
+3. "The Causes of the Civil War" by Paul Calore (2008)
+
+So... I'm gonna have to leave y'all with a cliffhanger and get back to you on this.
+
+## A Special Note
+
+I'm not sure WHY I need to spell this out here, but it occurs to me that detailing in essay form (and eventually something more compact) the actual reasons for the Civil War will contribute to the audience being disabused of the notion that "the North were the good guys and the South were the bad guys" in this version of American history. And by extension, doing that will empower the musical to cause the audience transformation I hope for it.
+
+To be continued (eventually)....
 
 
