@@ -906,9 +906,9 @@ The need for more and more cotton kept exhausting the land, giving an economic i
 
 As it turns out, there are THREE books that go into this issue at a NOT-superficial bullshit-depth:
 
-1. "The Half Has Never Been Told" by Edward E. Baptist (2014)
-2. "Clashes of Extremes" by Marc Egnal (2010)
-3. "The Causes of the Civil War" by Paul Calore (2008)
+1. ["The Half Has Never Been Told"](https://www.amazon.com/dp/0465049664) by Edward E. Baptist (2014)
+2. ["Clashes of Extremes"](https://www.amazon.com/dp/0809016451) by Marc Egnal (2010)
+3. ["The Causes of the Civil War"](https://www.amazon.com/dp/B0058RPD7K) by Paul Calore (2008)
 
 So... I'm gonna have to leave y'all with a cliffhanger and get back to you on this.
 
