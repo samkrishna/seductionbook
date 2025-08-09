@@ -1,4 +1,4 @@
-# Star Trek v. America
+# Star Trek v. United States
 
 ## Introduction
 
